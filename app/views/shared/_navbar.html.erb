@@ -15,7 +15,8 @@
       </button>
     </form>
 -->
-
+    <%= link_to "Concept", "", class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Blog", "", class: "navbar-spirits-item navbar-spirits-link" %>
     <!-- Different navigation if login or not -->
     <% if user_signed_in? %>
 
@@ -54,7 +55,8 @@
     <% else %>
 
       <!-- Login text link -->
-      <%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-spirits-item navbar-spirits-link" %>
+      <%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-spirits-item navbar-spirits-button btn" %>
+
 
     <% end %>
 
