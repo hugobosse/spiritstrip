@@ -1,0 +1,24 @@
+.red-zone{
+  background: #963C3E;
+  color: white;
+  height: 200px;
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.btn-bordered-gold{
+  margin-left: 10px;
+  padding: 0 20px;
+  border-radius: 4px;
+  line-height: 40px;
+  background-color: #963C3E;
+  color: #BA985A;
+  font-size: 14px;
+  border: 2px solid #BA985A !important;
+}
+
+.btn-bordered-gold:hover{
+  border: 2px solid #FCC765 !important;
+  color: #FCC765;
+}

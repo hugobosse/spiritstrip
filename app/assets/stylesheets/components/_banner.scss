@@ -1,0 +1,55 @@
+/* Banner design */
+.banner {
+  color: white;
+  text-align: center;
+  height: 80vh;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-content {
+  margin-top: -20px;
+}
+
+.banner h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+  font-family: 'Quicksand', sans-serif;
+}
+
+.banner p {
+  font-size: 25px;
+  font-weight: lighter;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 50px;
+}
+
+.banner .btn {
+  margin: 20px;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  border: 2px solid white !important;
+  font-weight: bold;
+  font-size: 20px;
+  background: #963C3E;
+  transition: all .3s ease-in-out;  width: 150px;
+  font-weight:lighter;
+}
+
+.banner .btn:hover {
+  background-position: 200% 100%;
+  background-color: #FCC765;
+  border-color: #BA985A;
+  color: white;
+}
+
+
+
+#banner-btns {
+  display: flex;
+  justify-content: center;
+}
