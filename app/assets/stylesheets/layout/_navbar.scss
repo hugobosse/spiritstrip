@@ -40,11 +40,11 @@
 
 /* Navbar standard link */
 .navbar-spirits-link {
-  color: #616668;
+  color: $brand-color;
   font-size: 14px;
 }
 .navbar-spirits-link:hover {
-  color: #da552f;
+  color: $spirit-yellow;
   text-decoration: none;
 }
 
