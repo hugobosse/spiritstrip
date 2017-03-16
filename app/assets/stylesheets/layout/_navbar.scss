@@ -8,11 +8,13 @@
   background: $coal;
   transition: all 0.3s ease;
   display: flex;
-  height: 70px;
+  height: 60px;
   padding: 0px 30px;
   align-items: center;
   justify-content: space-between;
   font-family: $base-font;
+  font-weight: 500;
+  font-size: 16;
 }
 
 /* Optional class to fix the navbar on top */
@@ -40,7 +42,7 @@
 .navbar-spirits-item {
   flex: 0 1 auto;
   cursor: pointer;
-  padding: 0 10px;
+  padding: 0 15px;
 }
 
 /* Navbar standard link */
