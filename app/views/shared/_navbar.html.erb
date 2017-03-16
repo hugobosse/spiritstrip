@@ -3,11 +3,6 @@
   <%= link_to root_path, class: "navbar-spirits-brand" do %>
     <%= image_tag "logo.png" %>
   <% end %>
-  <a href="" class="navbar-wagon-item navbar-wagon-link">
-    <div class="badge-container">
-      <i class="fa fa-shopping-cart"></i>
-    </div>
-  </a>
 
   <!-- Right Navigation -->
   <div class="navbar-spirits-right hidden-xs hidden-sm">
@@ -20,13 +15,16 @@
       </button>
     </form>
 -->
-    <%= link_to "Auberge", "", class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Piliers", "", class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Auberge", root_path, class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Piliers", team_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Valeurs", "", class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Echoppe", "", class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Abonnements", "", class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Dégustation", "", class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Dégustations", "", class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Blog", "", class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "", class: "badge-container navbar-wagon-item navbar-wagon-link" do %>
+        <i class="fa fa-shopping-cart"></i>
+    <% end %>
     <!-- Different navigation if login or not -->
     <% if user_signed_in? %>
 
