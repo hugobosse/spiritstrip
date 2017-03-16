@@ -4,10 +4,10 @@
  * ------------------------------------- */
 body {
   margin: 0;
-  font-family: Open-sans, sans-serif;
+  font-family: $base-font;
 }
 h1, h2, h3 {
-  font-family: Raleway, Helvetica, sans-serif;
+  font-family: $header-font;
 }
 h2 {
   font-size: 28px;

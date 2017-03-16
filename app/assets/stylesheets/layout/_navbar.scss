@@ -12,6 +12,7 @@
   padding: 0px 30px;
   align-items: center;
   justify-content: space-between;
+  font-family: $base-font;
 }
 
 /* Optional class to fix the navbar on top */
@@ -49,7 +50,10 @@
 }
 .navbar-spirits-link:hover {
   color: $whisky;
-  text-decoration: none;
+}
+.navbar-spirits-link:active {
+  color: $whisky;
+  font-size: 16px;
 }
 
 /* Navbar right button */
