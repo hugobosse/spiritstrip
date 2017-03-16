@@ -1,19 +1,54 @@
 .concept-bg{
   margin-top:70px;
   background:
-    linear-gradient( rgba(150, 60, 62, 0.6), rgba(150, 60, 62, 0.6)),
     url('https://res.cloudinary.com/dflt5cwj2/image/upload/v1489667927/bottles-mosaic_lhmqmr.png');
-  background-position: center center;
+  background-position: top center;
   background-size: cover;
   min-width: 100%;
   min-height: 100%;
 }
 
-.concept-bgi{
-  left: 0;
-  top: 70px;
-  min-width: 100%;
-  min-height: 100%;
-  background-position: top center;
-  background-size: cover;
+.concept{
+  color: white;
+  text-shadow: 1px 1px 1px $coal;
+  padding: 30px;
+  background:
+    linear-gradient( rgba($coal, 0.7), rgba($coal, 0.7));
+  box-shadow: 0px 0px 40px -8px rgba($coal,0.75);
+  .row{
+    background-color: $spirit;
+    padding: 30px 0;
+    margin: 0 -50px;
+  }
+  h1 {
+    font-family: $header-font;
+  }
+}
+
+#concept-header {
+  padding-left: 30px;
+}
+
+#video {
+  object-fit: contain;
+  display: flex;
+  justify-content: space-around;
+  #video-object {
+    border: solid 5px $gold;
+    box-shadow: inset -1.4px -1.4px 2px rgba($coal, 0.3);
+  }
+}
+
+.text {
+  padding: 30px;
+  h1{
+    text-align: center;
+    border-top: 1px dashed $coal;
+    padding-top: 30px;
+  }
+    p {
+    font-family: $base-font;
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
 }
