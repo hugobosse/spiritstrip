@@ -15,7 +15,10 @@ figure.player {
   background-image: linear-gradient(-25deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  box-shadow: 3px 3px 20px rgba($coal, 0.4);
+
 }
+
 figure.player *,
 figure.player *:before,
 figure.player *:after {
