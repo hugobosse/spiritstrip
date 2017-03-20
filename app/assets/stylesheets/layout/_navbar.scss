@@ -13,8 +13,7 @@
   align-items: center;
   justify-content: space-between;
   font-family: $base-font;
-  font-weight: 500;
-  font-size: 16;
+  font-size: 16px;
 }
 
 /* Optional class to fix the navbar on top */
@@ -48,7 +47,6 @@
 /* Navbar standard link */
 .navbar-spirits-link {
   color: $spirit;
-  font-size: 14px;
 }
 .navbar-spirits-link:hover {
   color: $whisky;
@@ -66,7 +64,6 @@
   line-height: 40px;
   background-color: #383B3D;
   color: #963C3E;
-  font-size: 14px;
   border: 2px solid #963C3E !important;
 }
 .navbar-spirits-button:hover {
