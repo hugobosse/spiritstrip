@@ -5,6 +5,9 @@
   display:flex;
   align-items: center;
   justify-content: space-around;
+  .email {
+    color: $coal
+  }
 }
 
 .btn-bordered-gold{
