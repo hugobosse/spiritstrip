@@ -1,0 +1,20 @@
+<h1>Get My Awesome News Letter</h1>
+<p>
+  Toute la team Spirit’s Trip vous souhaite la BIENVENUE !<br>
+  <br>
+  Nous sommes à l’heure actuelle en Écosse dans le but de dénicher quelques pépites à vous faire partager.<br>
+  <br>
+  Et pour vivre avec nous la suite de l’aventure et être sur de ne pas rater la sortie de nos futurs coffrets, laissez nous ci-contre vos coordonnées !<br>
+  <br>
+  A très vite,<br>
+</p>
+<%= form_tag('/emailapi/subscribe', method: "post", id: "subscribe", remote: "true") do -%>
+   <%= email_field(:email, :address, {id: "email", placeholder: "email address"}) %>
+   <%= submit_tag("OK") %>
+<% end %>
+
+
+
+
+
+
