@@ -1,17 +1,20 @@
 .red-zone{
   background: #963C3E;
+  padding: 30px;
   color: white;
-  height: 200px;
   display:flex;
   align-items: center;
   justify-content: space-around;
+  .email {
+    color: $coal
+  }
 }
 
 .btn-bordered-gold{
   margin-left: 10px;
-  padding: 0 20px;
+  padding: 0 15px;
   border-radius: 4px;
-  line-height: 40px;
+  line-height: 30px;
   background-color: #963C3E;
   color: #BA985A;
   font-size: 14px;

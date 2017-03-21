@@ -5,4 +5,7 @@ Rails.application.routes.draw do
   get '/team/', to: 'pages#team', as: 'team'
   get '/valeurs/', to: 'pages#concept', as: 'concept'
 
+  root 'emailapi#index'
+  post 'emailapi/subscribe' => 'emailapi#subscribe'
+
 end
