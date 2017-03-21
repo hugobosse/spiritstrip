@@ -1,17 +1,17 @@
-<div class="modal fade" tabindex="-1" role="dialog">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Modal title</h4>
+    <div class="wrapper red-zone">
+      <div class="text-center" id="newsletter">
+        <h2>Restons en contact</h2>
+        <p>
+          Nous sommes à l’heure actuelle en Écosse dans le but de dénicher quelques pépites à vous faire partager. Pour vivre avec nous la suite de l’aventure et être sur de ne pas rater la sortie de nos futurs coffrets, laissez nous ci-contre vos coordonnées !
+        </p>
+        <form action="//facebook.us15.list-manage.com/subscribe/post?u=840245fab053d98e5fd3d3c74&amp;id=<%= ENV['MAILCHIMP_LIST_ID'] %>" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_840245fab053d98e5fd3d3c74_e4f8583d10" tabindex="-1" value="">
+          </div>
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn-bordered-gold">
+        </form>
+        <p>P.S. On ne vous harcèlera pas, promis, juré, craché !</p>
       </div>
-      <div class="modal-body">
-        <p>One fine body&hellip;</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
+    </div>
