@@ -15,16 +15,17 @@
       </button>
     </form>
 -->
+
     <%= link_to "Accueil", root_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Piliers", team_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Echoppe", "", class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Abonnements", "", class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Dégustations", "", class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Echoppe", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" } %>
+    <%= link_to "Abonnements", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
+    <%= link_to "Dégustations", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
     <%= link_to "Blog", "", class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "", class: "badge-container navbar-wagon-item navbar-wagon-link" do %>
+    <!-- <#%= link_to "", class: "badge-container navbar-wagon-item navbar-wagon-link" do %>
         <i class="fa fa-shopping-cart"></i>
-    <% end %>
+    <#% end %>-->
     <!-- Different navigation if login or not -->
     <% if user_signed_in? %>
 
@@ -63,12 +64,11 @@
     <% else %>
 
       <!-- Login text link -->
-      <%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-spirits-item navbar-spirits-button btn" %>
-
-
+      <!--
+      <#%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-spirits-item navbar-spirits-button btn" %>
+-->
     <% end %>
-
-    <!-- Button (call-to-action)
+      <!-- Button (call-to-action)
     <%= link_to t(".top_call_to_action", default: "Post stuff"), "#", class: "navbar-spirits-item navbar-spirits-button btn" %>
   </div>
   -->
