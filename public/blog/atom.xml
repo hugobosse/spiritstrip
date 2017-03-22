@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>BLOG_NAME</title>
+ <link href="YOUR_URL/atom.xml" rel="self"/>
+ <link href="YOUR_URL"/>
+ <updated>2017-03-22T21:33:10+01:00</updated>
+ <id>BLOG_URL</id>
+ <author>
+   <name>BLOG_NAME</name>
+ </author>
+
+ 
+ <entry>
+   <title>post-whiskey-or-whisky</title>
+   <link href="YOUR_URL/post-whiskey-or-whisky.html"/>
+   <updated>2017-03-22T00:00:00+01:00</updated>
+   <id>BLOG_URL/post-whiskey-or-whisky</id>
+   <content type="html">&lt;p&gt;bla bla bia bla bou&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Test Post</title>
+   <link href="YOUR_URL/a-test-post.html"/>
+   <updated>2012-04-25T00:00:00+02:00</updated>
+   <id>BLOG_URL/a-test-post</id>
+   <content type="html">&lt;p&gt;Zach was bored while his girlfriend and her sister were talking and watching the voice. so this gem was created to generate a blog inside my rails application for my engine yard blog post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
