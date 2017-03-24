@@ -1,0 +1,48 @@
+---
+layout: post
+published: true
+title: "Strathearn, ou la plus petite distillerie écossaise !"
+---
+
+Voici Strathearn, "probablement", comme ils aiment à le préciser sur leur site internet, la plus petite (mais pas la moins jolie) distillerie écossaise. Elle est située à Methven dans le Perthshire.
+Aux abords de cette longue et jolie bâtisse de pierres, typiquement écossaise, on ne peut deviner cette caractéristique. Car ce qu'on ne sais pas en arrivant c'est que cette bâtisse sert également de base, pour sa plus grande partie, à Bluesky Experience, un groupe spécialisé dans les séminaires d'entreprises.
+
+Ce n'est qu'une fois à l'intérieur que le mot "petit" prend tout son sens.
+Deux Mash Tuns (cuves de brassage) d'une taille à à peine rendre jalouse une machine à laver. Un seul Washback (cuve de fermentation) et là encore, une dizaine de fois plus petit que chez Kingsbarns où il y en a trois; elle même considérée comme une petite distillerie...
+
+Le Washback de la distillerie
+... et les alambics... vous souvenez-vous de ceux de chez Glenkinchie ? Ils ne font pas partie des plus gros alambics d'Écosse, mais peuvent tout de même contenir 31 000 litres de moût pour le Wash Still et 21 000 litres de low wines pour le Spirit Still.
+Chez Strathearn les choses sont définitivement plus petites :
+
+"Bella the Stripper" & "Wee Erin" les deux Pot Still
+Le Wash Still peut à peine contenir 1 000 litres et le Spirit Still juste la moitié. Soit respectivement quelques 30 et 40 fois moins que son homologue des Lowlands... et attendez de voir les alambics de chez Glenmorangie (5,13m de haut, les plus hauts d'Écosse)...
+Ici pas de Wash Safe ou de Spirit Safe, vous savez, cet instrument vitré qui permet de verifier le distillat qui s'écoule de l'alambic avant d'être distillé à nouveaux ou d'être mis en fût.
+Non, pas de ça ici.
+Mais ça :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JX7Bbu4xASM" frameborder="0" allowfullscreen></iframe>
+Et pas de question de timing minutieusement calculé pour savoir quand arrêter la production. Ici on goûte. On trempe son doigt à maintes reprises dans le bac où se déverse le spiritueux jusqu'à ce qu'on sente par soi-même qu'il est à point.
+Ici on expérimente. On utilise des fûts de toutes tailles, surtout des petits.
+En effet, comme vous le savez maintenant tous, un whisky pour porter son nom doit vieillir plus de trois ans en fût (de chêne). Trois ans donc ou vous ne pouvez pas faire gouter votre whisky dans les salons où vous présentez votre nouveau projet. Ce qui à eu le don d'agacer un poil Tony, le propriétaire de la distillery Strathearn.
+Tony à donc décidé de faire vieillir une part de sa production dans des fût plus petit afin qu'elle vieillisse plus rapidement et ainsi pouvoir faire gouter quelque chose qui se rapprochera de la production future dans les évènements mondains.
+Attention, ce n'est pas parce que ça vieilli plus vite que ça s'appellera whisky plus rapidement. Que nenni ! Trois ans et un jour on vous a dit !
+
+Pas plus d'une cinquantaine de fûts (5000 chez Tullibardine)
+A juste titre les plus curieux se demanderont pourquoi alors cela vieillit il plus vite dans un petit fût que dans un grand... nous ne prenons pas plus de rides dans un petit lit que je sache !
+Vous avez raison, la question est pertinente !
+Plus le fût est petit, plus, proportionnellement à la quantité d'alcool contenue dans le fût, la surface de contact entre le bois et le spiritueux sera importante. Vous suivez ?
+Cette surface de contacte "augmentée" induit donc une interaction entre l'air, le bois et l'alcool beaucoup plus importante donc un "vieillissement" plus rapide. Même si je vous l'accorde, le futur whisky n'aura de toute façon trois ans que dans trois ans... Ok...
+
+Les premiers fûts ! (déjà vendus aux enchères pour une petite fortune)
+Strathearn a même experimenté des vieillisements en fût de 2,5 L, oui monsieur...
+Le seul problème de tout ça c'est que la Part des Anges est du coup beaucoup plus rapide et importante (on appelle Part des Anges, la partie du volume d'alcool qui s'évapore pendant le vieillissement. Celle-ci est, sur un fût normal (env. 250 L) de 2% par an en volume)... la quantité de fûts nécéssaire aussi. Tony privilégie donc maintenant une finition de seulement quelques jours dans ce type de fût.
+Il m'a gentiment offert un échantillon d'un "avant-whisky" provenant de deux New Make Spirits ayant vieillis seulement une semaine, l'un en fût neuf de chêne de la forêt de Tronçais et l'autre dans un fût ayant précédemment contenu un whisky tourbé de la distillerie Laphroaig, avant d'être mélangés et de subir une finition de cinq jour dans un fût de Porto de 2,5 L tout juste vidé pour l'experimentation.
+C'est bluffant.
+On a l'impression de boire un 30 ans d'âge, hors ça n'a même pas deux semaines.
+Une complexité étonnante entre la douceur apportée par le Porto, la fumé du Laproaig et les différentes épices. En bref un régale (mais pas un whisky...).
+Vous l'aurez compris, Strathearn et son équipe (4 membres tous plus sympathiques les uns que les autres) sont les rois de l'expérimentation. Quand on y est et qu'on écoute ça fait rêver.
+Des whiskies, des rhums, des gins, des brandy, des eaux de vie et j'en passe. Et pour chaque, une foultitudes de recettes différentes tant en terme de technique de distillation que de vieillissement.
+Et n'oubliez pas, ici tout se goûte avec le doigt ;)
+
+                                                                   Sláinte !
+
+Spirit’s Trip.

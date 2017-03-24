@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: comment-lire-une-etiquette-de-whisky
+title: "Comment lire l’étiquette d’un whisky et en comprendre les moindres détails"
 ---
 
 De nombreux détails apparaissent sur l’étiquette d’une bouteille. Que nous indiquent-ils ?
