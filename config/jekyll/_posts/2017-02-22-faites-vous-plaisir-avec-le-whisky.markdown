@@ -47,6 +47,6 @@ Les beaux souvenirs font les plus grands plaisirs. Essayez ainsi d’imprimer da
  Profitez alors des notes de fonds qui persiste dans le verre encore quelque minute après la dégustation. Et si tout ça ne suffit pas, resservez vous un verre, avec modération !
 
 
-            Sláinte !
+Sláinte !
 
-              Spirit's Trip
+Spirit's Trip
