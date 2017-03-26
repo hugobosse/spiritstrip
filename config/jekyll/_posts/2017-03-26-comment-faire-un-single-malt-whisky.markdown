@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: "Et finalement, comment fait on un Single Malt ?"
+tags: whisky whiskypedia culture
 ---
 
 Cela fait aujourd’hui trois semaines pile que je suis au pays du chardon !
@@ -83,9 +84,9 @@ Cela nous viendrai de Russie. La légende Russe veut que le scientifique Mendele
 
 Un whisky force de fût (Cask Strength) 59,9%, provenant d'un unique fût (Single Cask)
 
-Il ne vous reste plus qu’à ouvrir votre bouteille et à la déguster comme vous le souhaitez (je vous conseille tout de même de lire l’article « Le but principal est de vous faire plaisir mais… » publié il y a quelques semaines par Spirit’s Trip). Le voilà :
+Il ne vous reste plus qu’à ouvrir votre bouteille et à la déguster comme vous le souhaitez (je vous conseille tout de même de lire l’article <a href="https://www.facebook.com/notes/spirits-trip/-le-but-principal-est-de-vous-faire-plaisir-mais-/273643946382691
+">"Le but principal est de vous faire plaisir mais…"</a> publié il y a quelques semaines par Spirit’s Trip.
 
-https://www.facebook.com/notes/spirits-trip/-le-but-principal-est-de-vous-faire-plaisir-mais-/273643946382691
 
 
 Après ça,
