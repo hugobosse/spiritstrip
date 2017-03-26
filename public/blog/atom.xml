@@ -4,12 +4,86 @@
  <title>BLOG_NAME</title>
  <link href="YOUR_URL/atom.xml" rel="self"/>
  <link href="YOUR_URL"/>
- <updated>2017-03-24T19:23:00+00:00</updated>
+ <updated>2017-03-26T22:28:32+01:00</updated>
  <id>BLOG_URL</id>
  <author>
    <name>BLOG_NAME</name>
  </author>
 
+ 
+ <entry>
+   <title>Et finalement, comment fait on un Single Malt ?</title>
+   <link href="YOUR_URL/comment-faire-un-single-malt-whisky.html"/>
+   <updated>2017-03-26T00:00:00+00:00</updated>
+   <id>BLOG_URL/comment-faire-un-single-malt-whisky</id>
+   <content type="html">&lt;p&gt;Cela fait aujourd’hui trois semaines pile que je suis au pays du chardon !&lt;/p&gt;
+
+&lt;p&gt;Il est grand temps que je fasse un point plus détaillé sur la confection de notre breuvage favori : le Single Malt !&lt;/p&gt;
+
+&lt;p&gt;Pour cela, revenons dans un premier temps sur la définition d’un Single Malt. Un Single Malt est un whisky, c’est à dire une eau de vie de céréales vieillie en fût de chêne pendant au moins trois ans et un jour et embouteillée à 40% minimum, distillé à partir d’un moût d’orge maltée, dans une et une seule distillerie.&lt;/p&gt;
+
+&lt;p&gt;1- Le Maltage&lt;/p&gt;
+
+&lt;p&gt;Le toît en pagode du Kiln de la distillerie d&#39;Aberfeldy&lt;/p&gt;
+
+&lt;p&gt;Le maltage est la partie du processus qui consiste à transformer l’orge en malt. L’objectif est de transformer les sucres complexes contenus dans le grain d’orge en sucres plus simple fermentescibles afin d’obtenir de l’alcool lors de la fermentation.
+Pour parvenir à cela, il va falloir « réveiller » l’orge préalablement « endormie » depuis sa récolte. On l’arrose donc avec de l’eau afin de réactiver les enzymes et obtenir une petite excroissance, le germe. A ce stade l’orge contient l’amidon nécessaire à la future fermentation.&lt;/p&gt;
+
+&lt;p&gt;Le Mill transforme le Malt en Grist&lt;/p&gt;
+
+&lt;p&gt;Les grains sont ensuite séchés pour stopper la germination. Le séchage s’effectue dans des grandes cheminées appelées Kiln avant d’être broyés dans un moulin (Mill) afin d’obtenir une farine grossière, le grist, qui sera plus propice à la récupération des sucres.&lt;/p&gt;
+
+&lt;p&gt;Pour info, la maison Porteus, constructeur de moulin de ce genre (voir photo) a fini par faire faillite après son immense succés. En cause, la trop grande qualité de ses machines qui n&#39;ont jamais eu à être remplacées...&lt;/p&gt;
+
+&lt;p&gt;2- Le mashing&lt;/p&gt;
+
+&lt;p&gt;Le mash est lentement brassé pour permettre à l&#39;eau de récupérer les sucres&lt;/p&gt;
+
+&lt;p&gt;C’est le processus qui consiste à récupérer les sucres pour la fermentation.
+A ce stade, on place le Grist préalablement obtenu dans une grande cuve, le Mash Tun. On ajoute successivement de l’eau à des température de plus en plus élevée allant de 60 à 80°C. L’eau va passer à travers le moût (Mash) et l’augmentation des températures permet de récupérer en profondeur le maximum de sucre.&lt;/p&gt;
+
+&lt;p&gt;3- La fermentation&lt;/p&gt;
+
+&lt;p&gt;Les Wash Backs des chez Tomatin&lt;/p&gt;
+
+&lt;p&gt;Une fois l’eau sucrée récupérée, cette dernière est refroidie et placée dans des wash backs, cuves dans lesquelles on ajoute les levures afin d’amorcer la fermentation. Une étape qui dure environ 70h dans la majorité des cas. On obtient alors une “bière” de malt titrant entre 8 et 10%.&lt;/p&gt;
+
+&lt;p&gt;L&#39;action des levures et les bulles de CO2&lt;/p&gt;
+
+&lt;p&gt;4- La distillation&lt;/p&gt;
+
+&lt;p&gt;Les alambics de la distillerie Tullibardine&lt;/p&gt;
+
+&lt;p&gt;Nous avons enfin de l’alcool, mais pas assez !
+La distillation va agir en ce sens. Elle va permettre par l’évaporation et la condensation successive des vapeurs de cette « bière » appelée Wash d’obtenir un distillât qui titre aux environs de 70%. Différents types d’alambic peuvent être utilisé. Dans le cas des Single Malt Scotch Whisky on utilise exclusivement des alambics à repasse (Pot Still).&lt;/p&gt;
+
+&lt;p&gt;5- La maturation&lt;/p&gt;
+
+&lt;p&gt;L&#39;entreprot de stockage de la distillerie Tomatin&lt;/p&gt;
+
+&lt;p&gt;Une fois le distillat (New Make Spirit) obtenu, la règlementation rend obligatoire une maturation en fût de chêne pendant au moins trois ans. Ce n’est qu’à la fin de cette période que le nom whisky est donné au breuvage. Certain fût peuvent vieillir plus d’une cinquantaine d’année ! Il faut cependant faire attention à la part des Anges, ce mécanisme d’évaporation de l’alcool qui réduit le contenu du fût d’environ 2% par an, mais également la teneur en alcool. Un whisky qui attend trop longtemps risque de ne plus titrer les 40% minimum exigés par la réglementation…&lt;/p&gt;
+
+&lt;p&gt;Un fût rempli en 1967, humm...&lt;/p&gt;
+
+&lt;p&gt;6- La délectation&lt;/p&gt;
+
+&lt;p&gt;Le Tasting Event chez Aberlour&lt;/p&gt;
+
+&lt;p&gt;Les fûts sont enfin mis en bouteilles, soit à la force du fût (souvent plus de 55%) soit en étant préalablement diluer pour faire descendre le pourcentage à minimum 40%.
+Pour la petite anecdote, le 40% n’a pas été fixé au hasard par une tête pensante accoudée à un comptoir.
+Cela nous viendrai de Russie. La légende Russe veut que le scientifique Mendeleev connu de tous pour son tableau périodique des éléments ait inventé la Vodka. Rien ne le prouve vraiment, mais il a en effet démontré qu’un alcool était optimal à la dégustation quand il titrait 38,5%. De nombreuse distilleries se sont alors empressées de suivre ses conseils. Seulement, le calcul des taxes ne s’en trouvant pas facilité, le pourcentage de 40% a plus tard été retenue par les administrations étatiques.&lt;/p&gt;
+
+&lt;p&gt;Un whisky force de fût (Cask Strength) 59,9%, provenant d&#39;un unique fût (Single Cask)&lt;/p&gt;
+
+&lt;p&gt;Il ne vous reste plus qu’à ouvrir votre bouteille et à la déguster comme vous le souhaitez (je vous conseille tout de même de lire l’article « Le but principal est de vous faire plaisir mais… » publié il y a quelques semaines par Spirit’s Trip). Le voilà :&lt;/p&gt;
+
+&lt;p&gt;https://www.facebook.com/notes/spirits-trip/-le-but-principal-est-de-vous-faire-plaisir-mais-/273643946382691&lt;/p&gt;
+
+&lt;p&gt;Après ça,&lt;/p&gt;
+
+&lt;p&gt;SLÁINTE !&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Strathearn, ou la plus petite distillerie écossaise !</title>
@@ -112,10 +186,9 @@ Les beaux souvenirs font les plus grands plaisirs. Essayez ainsi d’imprimer da
  La finale est faite pour imprimer ses souvenirs. Mais elle peut être frustrante, parce que toujours trop courte quelque soit sa durée.
  Profitez alors des notes de fonds qui persiste dans le verre encore quelque minute après la dégustation. Et si tout ça ne suffit pas, resservez vous un verre, avec modération !&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;        Sláinte !
+&lt;p&gt;Sláinte !&lt;/p&gt;
 
-          Spirit&#39;s Trip
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Spirit&#39;s Trip&lt;/p&gt;
 </content>
  </entry>
  
