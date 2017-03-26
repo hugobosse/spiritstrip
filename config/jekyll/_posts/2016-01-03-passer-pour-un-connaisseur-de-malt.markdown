@@ -21,7 +21,7 @@ La finition consiste, une fois la maturation terminée, à transvaser le whisky 
 
 Ne buvez pas votre whisky bêtement et simplement. Admirez le, Sentez le, ressentez le, sirotez le, faites le tourner ...
 Maintenant, quand le barman vous tend le verre, ne le buvez pas cul-sec. Profitez-en ! Considérez pleinement ce que vous êtes en train de boire.
-Richard Patterson, célèbre Master Blender de la distillerie Dalmore, vous montre comment faire dans cette vidéo et il n’exagère pas du tout…   https://www.youtube.com/watch?v=YVG1U-faqHY&t=13s
+Richard Patterson, célèbre Master Blender de la distillerie Dalmore, vous montre comment faire dans cette vidéo et il n’exagère pas du tout…   <iframe width="560" height="315" src="https://www.youtube.com/embed/YVG1U-faqHY" frameborder="0" allowfullscreen></iframe>
 Au moment ou vous vous apprêtez à plonger le nez dans votre verre, comme un pro, suivez ces quelques conseils :
 placez-vous à l’aplomb du verre, à une vingtaine de centimètres puis rapprochez votre nez lentement pour ne pas bruler votre odorat. Incliner alors votre verre pour sentir les différentes strates, le whisky étant un alcool extrêmement volatil vous allez pouvoir sentir différentes « couches » d’arôme verticalement.
 Entre deux coups de nez, n’hésitez pas à faire tourner légèrement votre whisky pour en admirer les jambes redescendant en cascades lentes et gracieuses. Elles traduisent la teneur en alcool de votre whisky.
