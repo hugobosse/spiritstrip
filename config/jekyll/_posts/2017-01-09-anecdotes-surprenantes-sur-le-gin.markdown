@@ -36,4 +36,7 @@ Maintenant que vous êtes rodés sur les procédés de fabrication des différen
 7- La baie de genièvre n’est en fait pas une baie… c’est une graine. Voila. Je vous laisse aller voir la différence qu’il existe entre les baies et les graines.
 8- Le Gin Tonic a d’abord gagné en popularité dans les colonies britanniques. La quinine contenue dans l’Indian Tonic a en effet des vertus efficaces contre le paludisme. Seulement, son goût est si amer qu’on a décidé à l’époque de le mélanger avec de l’eau gazeuse, du sucre et du citron. Pour couronner le tout on a ajouté un peu de gin. Et oui, sinon les colons oubliaient de consommer leur dose de quinine et n’étaient plus protégés… sacrés British !
 
-Sirit’s Trip.
+
+Sláinte !
+
+Spirit's Trip

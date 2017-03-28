@@ -20,7 +20,7 @@ C'est d'ailleurs l'exploitation d'une source, d'un ruisseau, d'une rivière ou d
 
 La Kinnaird Burn alimente la distillerie Blair Athol à Pitlochry
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fY1SWsaIf4o" frameborder="0" allowfullscreen></iframe>
+<iframe class= "text-center" width="560" height="315" src="https://www.youtube.com/embed/fY1SWsaIf4o" frameborder="0" allowfullscreen></iframe>
 
 Bien plus qu'un simple composant, l'eau est une nécessité de tous les instants. Aussi elle doit être la plus pure possible et disponible toute l'année.
 La disponibilité est un facteur clé et le cycle de l'eau en période estivale peut imposer une "saison silencieuse" durant laquelle la distillerie est obligée de cesser sa production. Elle en profitera donc pour effectuer les travaux d'entretien nécessaires.
@@ -42,5 +42,8 @@ Pour les opération de coupage afin de diminuer le titrage alcoolique du whisky 
 Vous comprenez maintenant beaucoup mieux pourquoi il pleut autant en Écosse et pourquoi il y a autant de Loch et de cours d'eau.
 Bon ok, c'est peut être parce qu'il y a des cours d'eau qu'il font beaucoup de whisky... mais avouez que dans ce sens l'histoire est moins sexy !
 Pour conclure, je dirai que, finalement, en dégustant un whisky on boit quand même beaucoup d'eau !
-                        Sláinte !
+
+
+Sláinte !
+
 Spirit's Trip

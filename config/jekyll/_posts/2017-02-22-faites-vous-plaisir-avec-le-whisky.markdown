@@ -27,7 +27,7 @@ Pas de cul-sec on a dit !
  C’est  parce que l’essentiel de l’évaluation d’un whisky se fait grâce au « pif » que l’on surnomme « nez » les professionnels de la dégustion.
  Si la peur d’une honte gigantesque vous prend au moment de renifler votre verre face à quelques clients ou d’illustres inconnus, n’hésitez pas à regarder les vidéos du Master Blender le plus célèbre d’Écosse,  « The Nose »,  j’ai nommé le tonitruant Richard Patterson. Vous n’aurez plus jamais honte après avoir vu ça.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YVG1U-faqHY" frameborder="0" allowfullscreen></iframe>
+<iframe class= "text-center" width="560" height="315" src="https://www.youtube.com/embed/YVG1U-faqHY" frameborder="0" allowfullscreen></iframe>
 
 Vous n’êtes pas non plus obligé de l’imiter complètement (vous comprendrez rapidement pourquoi après avoir visionné la vidéo ci-dessus…).
 

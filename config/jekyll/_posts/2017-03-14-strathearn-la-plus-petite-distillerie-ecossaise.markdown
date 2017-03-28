@@ -22,7 +22,9 @@ Le Wash Still peut à peine contenir 1 000 litres et le Spirit Still juste la mo
 Ici pas de Wash Safe ou de Spirit Safe, vous savez, cet instrument vitré qui permet de verifier le distillat qui s'écoule de l'alambic avant d'être distillé à nouveaux ou d'être mis en fût.
 Non, pas de ça ici.
 Mais ça :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JX7Bbu4xASM" frameborder="0" allowfullscreen></iframe>
+
+<iframe class= "text-center" width="560" height="315" src="https://www.youtube.com/embed/JX7Bbu4xASM" frameborder="0" allowfullscreen></iframe>
+
 Et pas de question de timing minutieusement calculé pour savoir quand arrêter la production. Ici on goûte. On trempe son doigt à maintes reprises dans le bac où se déverse le spiritueux jusqu'à ce qu'on sente par soi-même qu'il est à point.
 Ici on expérimente. On utilise des fûts de toutes tailles, surtout des petits.
 En effet, comme vous le savez maintenant tous, un whisky pour porter son nom doit vieillir plus de trois ans en fût (de chêne). Trois ans donc ou vous ne pouvez pas faire gouter votre whisky dans les salons où vous présentez votre nouveau projet. Ce qui à eu le don d'agacer un poil Tony, le propriétaire de la distillery Strathearn.
@@ -46,6 +48,7 @@ Vous l'aurez compris, Strathearn et son équipe (4 membres tous plus sympathique
 Des whiskies, des rhums, des gins, des brandy, des eaux de vie et j'en passe. Et pour chaque, une foultitudes de recettes différentes tant en terme de technique de distillation que de vieillissement.
 Et n'oubliez pas, ici tout se goûte avec le doigt ;)
 
-                                                                   Sláinte !
+
+Sláinte !
 
 Spirit’s Trip.

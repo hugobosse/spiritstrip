@@ -88,9 +88,9 @@ Un whisky force de fût (Cask Strength) 59,9%, provenant d'un unique fût (Singl
 
 Il ne vous reste plus qu’à ouvrir votre bouteille et à la déguster comme vous le souhaitez (je vous conseille tout de même de lire l’article <a href="https://www.facebook.com/notes/spirits-trip/-le-but-principal-est-de-vous-faire-plaisir-mais-/273643946382691
 ">"Le but principal est de vous faire plaisir mais…"</a> publié il y a quelques semaines par Spirit’s Trip.
-
-
-
 Après ça,
 
-SLÁINTE !
+
+Sláinte !
+
+Spirit's Trip

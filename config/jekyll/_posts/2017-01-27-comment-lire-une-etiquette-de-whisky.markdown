@@ -51,3 +51,8 @@ Quand il s’agit un petit lot de fûts choisi avec soin on retrouvera la mentio
 
 L’absence de filtration à froid : « Unchillfiltered » ou « Non-chill filtered »
 Cette mention indique l’absence de filtration du whisky entre la sortie du fût et la mise en bouteille. La suppréssion de cette étape permet de garder le maximum d’arôme. L’aspect d’un whisky « Unchillfiltered » peut être parfois flou, tels les whisky de la gamme Very Cloudy mise en bouteille par l’embouteilleur indépendant Signatory Vintage. S’il ne l’est pas, l’adjonction d’une ou deux gouttes d’eau dans votre verre pourront faire apparaitre ce côté laiteux. Si le visuel est surprenant, c’est plutôt un gage de qualité !
+
+
+Sláinte !
+
+Spirit's Trip

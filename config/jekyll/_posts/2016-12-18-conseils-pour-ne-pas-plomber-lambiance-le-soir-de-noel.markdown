@@ -35,4 +35,9 @@ Manifestement non.
 Non plus. D’ailleurs on n’hésite pas à s’inscrire aux dégustations Spirit’s Trip ! Si si, c’est Papy qui l’a dit !
 - Tu grimaces pas quand t’avales ?
 Seriously ?
-Spirit’s Trip.
+
+
+Sláinte !
+
+Spirit's Trip
+
