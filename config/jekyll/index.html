@@ -11,7 +11,7 @@ title: Le blog de Spirit's Trip
         <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url({{post.image}});">
             <div class="blog-card-title">
               <h2>{{post.title}}</h2>
-              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> {{post.date}}</p>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> {{post.date  | date_to_string }}</p>
               <div class="blog-read-btn">
                 <a href="/blog{{ post.url }}" >Lire</a>
               </div>

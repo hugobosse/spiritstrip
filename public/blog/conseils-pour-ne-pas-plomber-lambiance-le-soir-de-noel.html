@@ -13,100 +13,26 @@
    <link rel="stylesheet" href="/blog/css/screen.css" type="text/css" media="screen, projection" />
 -->
 </head>
-<body>
-  <header>
-      <div class="navbar-spirits">
+  <body>
+    <header>
+        <div class="navbar-spirits">
   <!-- Logo -->
-  <%= link_to root_path, class: "navbar-spirits-brand" do %>
-    <%= image_tag "logo.png" %>
-  <% end %>
+  <a class="navbar-spirits-brand" href="/">
+    <img src="/assets/logo.png" alt="">
+  </a>
 
   <!-- Right Navigation -->
-  <div class="navbar-spirits-right hidden-xs hidden-sm">
-
-    <!-- Search form
-    <form action="" class="navbar-spirits-search">
-      <input type="text" class="navbar-spirits-search-input" placeholder="Search something">
-      <button type="submit" class="navbar-spirits-search-btn">
-        <i class="fa fa-search"></i>
-      </button>
-    </form>
--->
-
-    <%= link_to "Accueil", root_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Piliers", team_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Echoppe", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" } %>
-    <%= link_to "Abonnements", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
-    <%= link_to "Dégustations", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
-    <%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <!-- <#%= link_to "", class: "badge-container navbar-wagon-item navbar-wagon-link" do %>
-        <i class="fa fa-shopping-cart"></i>
-    <#% end %>-->
-    <!-- Different navigation if login or not -->
-    <% if user_signed_in? %>
-
-      <!-- Notification -->
-      <%= link_to "#", class: "navbar-spirits-item navbar-spirits-link" do %>
-        <div class="badge-container">
-          <i class="fa fa-envelope-o"></i>
-          <div class="badge badge-blue">3</div>
-        </div>
-      <% end %>
-
-      <!-- Profile picture and dropdown -->
-      <div class="navbar-spirits-item">
-        <div class="dropdown">
-          <%= image_tag "http://placehold.it/30x30", class: "avatar dropdown-toggle", id: "navbar-spirits-menu", "data-toggle" => "dropdown" %>
-          <ul class="dropdown-menu dropdown-menu-right navbar-spirits-dropdown-menu">
-            <li>
-              <%= link_to "#" do %>
-                <i class="fa fa-user"></i> <%= t(".profile", default: "Profile") %>
-              <% end %>
-            </li>
-            <li>
-              <%= link_to "#" do %>
-                <i class="fa fa-home"></i>  <%= t(".profile", default: "Home") %>
-              <% end %>
-            </li>
-            <li>
-              <%= link_to destroy_user_session_path, method: :delete do %>
-                <i class="fa fa-sign-out"></i>  <%= t(".sign_out", default: "Log out") %>
-              <% end %>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-    <% else %>
-
-      <!-- Login text link -->
-      <!--
-      <#%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-spirits-item navbar-spirits-button btn" %>
--->
-    <% end %>
-      <!-- Button (call-to-action)
-    <%= link_to t(".top_call_to_action", default: "Post stuff"), "#", class: "navbar-spirits-item navbar-spirits-button btn" %>
+  <div class="navbar-spirits-right navbar-spirits-item navbar-spirits-link">
+    <a class="navbar-spirits-item navbar-spirits-link" href="/">Retour au site</a>
+    <a class="navbar-spirits-item navbar-spirits-button btn" data-toggle="modal" data-target="#myModal" href="#" role="button">s'abonner</a>
   </div>
-  -->
-</div>
 
   <!-- Dropdown list appearing on mobile only -->
-  <div class="navbar-spirits-item hidden-md hidden-lg">
-    <div class="dropdown">
-      <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
-      <ul class="dropdown-menu dropdown-menu-right navbar-spirits-dropdown-menu">
-        <li><a href="#">Some mobile link</a></li>
-        <li><a href="#">Other one</a></li>
-        <li><a href="#">Other one</a></li>
-      </ul>
-    </div>
-  </div>
 </div>
 
-  </header>
+    </header>
 
-  <div id="post">
+    <div id="post">
 <p>Vous commencez depuis quelque temps à aimer le whisky, on parle de whisky là, pas de la liqueur translucido-maronnasse qu’on mélange sans scrupule avec un cola bien frais et qu’on se jette à maintes reprises derrière la cravate pour oublier sa dure semaine… Bref, vous commencez à aimer le whisky et vous vous doutez, vous qui ne croyez plus au Père Noël depuis belle lurette, qu’à force de baratiner vos proches une bouteille du dit breuvage finira bien une année  dans vos paquets cadeaux le 25 au matin (que dis-je, le 24 au soir !).
 Seulement voilà, cette bouteille risque de vous faire rentrer dans la cour des grands… une cour où l’on aime partager cette passion sans mesure. Mais, détrompez-vous, ils ont leurs limites. Toutes les questions des nouveaux entrants (et des autres d’ailleurs) ne sont pas toujours les bienvenues. Donc au moment où vous y entrez il faudra assumer et éviter d’hérisser Papy avec des questions dignes du « c’est du foot ou du Rugby ?» (Vous la connaissez celle là hein ?).
 Ps : Ça tient pour vous aussi. Oui, vous. Vous qui n’aimez pas du tout ça (le whisky !)  mais qui trouvez ça cool le soir de noël de poser des questions sur les cadeaux des autres.
@@ -169,8 +95,8 @@ Spirit’s Trip.</p>
 </div>
 
 
-<footer>
-   <div id="footer">
+    <footer>
+       <div id="footer">
       <ul class="list-inline">
         <li><a href=""><i class="fa fa-youtube"></i></a></li>
         <li><a href="https://www.instagram.com/spirits_trip/"><i class="fa fa-instagram"></i></a></li>
@@ -180,11 +106,11 @@ Spirit’s Trip.</p>
       <p>Grâce à Spiit's trip apprenez à déguster les spiritueux entre amis</p>
     </div>
 
-</footer>
+    </footer>
 
-<!-- Google Analytics -->
+  <!-- Google Analytics -->
 
-<!-- Google Analytics end -->
+  <!-- Google Analytics end -->
 
-</body>
+  </body>
 </html>

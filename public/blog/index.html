@@ -13,100 +13,26 @@
    <link rel="stylesheet" href="/blog/css/screen.css" type="text/css" media="screen, projection" />
 -->
 </head>
-<body>
-  <header>
-      <div class="navbar-spirits">
+  <body>
+    <header>
+        <div class="navbar-spirits">
   <!-- Logo -->
-  <%= link_to root_path, class: "navbar-spirits-brand" do %>
-    <%= image_tag "logo.png" %>
-  <% end %>
+  <a class="navbar-spirits-brand" href="/">
+    <img src="/assets/logo.png" alt="">
+  </a>
 
   <!-- Right Navigation -->
-  <div class="navbar-spirits-right hidden-xs hidden-sm">
-
-    <!-- Search form
-    <form action="" class="navbar-spirits-search">
-      <input type="text" class="navbar-spirits-search-input" placeholder="Search something">
-      <button type="submit" class="navbar-spirits-search-btn">
-        <i class="fa fa-search"></i>
-      </button>
-    </form>
--->
-
-    <%= link_to "Accueil", root_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Piliers", team_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Echoppe", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" } %>
-    <%= link_to "Abonnements", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
-    <%= link_to "Dégustations", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
-    <%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <!-- <#%= link_to "", class: "badge-container navbar-wagon-item navbar-wagon-link" do %>
-        <i class="fa fa-shopping-cart"></i>
-    <#% end %>-->
-    <!-- Different navigation if login or not -->
-    <% if user_signed_in? %>
-
-      <!-- Notification -->
-      <%= link_to "#", class: "navbar-spirits-item navbar-spirits-link" do %>
-        <div class="badge-container">
-          <i class="fa fa-envelope-o"></i>
-          <div class="badge badge-blue">3</div>
-        </div>
-      <% end %>
-
-      <!-- Profile picture and dropdown -->
-      <div class="navbar-spirits-item">
-        <div class="dropdown">
-          <%= image_tag "http://placehold.it/30x30", class: "avatar dropdown-toggle", id: "navbar-spirits-menu", "data-toggle" => "dropdown" %>
-          <ul class="dropdown-menu dropdown-menu-right navbar-spirits-dropdown-menu">
-            <li>
-              <%= link_to "#" do %>
-                <i class="fa fa-user"></i> <%= t(".profile", default: "Profile") %>
-              <% end %>
-            </li>
-            <li>
-              <%= link_to "#" do %>
-                <i class="fa fa-home"></i>  <%= t(".profile", default: "Home") %>
-              <% end %>
-            </li>
-            <li>
-              <%= link_to destroy_user_session_path, method: :delete do %>
-                <i class="fa fa-sign-out"></i>  <%= t(".sign_out", default: "Log out") %>
-              <% end %>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-    <% else %>
-
-      <!-- Login text link -->
-      <!--
-      <#%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-spirits-item navbar-spirits-button btn" %>
--->
-    <% end %>
-      <!-- Button (call-to-action)
-    <%= link_to t(".top_call_to_action", default: "Post stuff"), "#", class: "navbar-spirits-item navbar-spirits-button btn" %>
+  <div class="navbar-spirits-right navbar-spirits-item navbar-spirits-link">
+    <a class="navbar-spirits-item navbar-spirits-link" href="/">Retour au site</a>
+    <a class="navbar-spirits-item navbar-spirits-button btn" data-toggle="modal" data-target="#myModal" href="#" role="button">s'abonner</a>
   </div>
-  -->
-</div>
 
   <!-- Dropdown list appearing on mobile only -->
-  <div class="navbar-spirits-item hidden-md hidden-lg">
-    <div class="dropdown">
-      <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
-      <ul class="dropdown-menu dropdown-menu-right navbar-spirits-dropdown-menu">
-        <li><a href="#">Some mobile link</a></li>
-        <li><a href="#">Other one</a></li>
-        <li><a href="#">Other one</a></li>
-      </ul>
-    </div>
-  </div>
 </div>
 
-  </header>
+    </header>
 
-  <div id="home">
+    <div id="home">
   <h1>Bienvenue sur le blog de Spirit's Trip</h1>
   <div class="container">
     
@@ -114,7 +40,7 @@
         <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url(http://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,w_1500/v1490705500/IMG_1690_dm9u5e.jpg);">
             <div class="blog-card-title">
               <h2>Strathearn, ou la plus petite distillerie écossaise !</h2>
-              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 2017-03-14 00:00:00 +0000</p>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 14 Mar 2017</p>
               <div class="blog-read-btn">
                 <a href="/blog/strathearn-la-plus-petite-distillerie-ecossaise.html" >Lire</a>
               </div>
@@ -127,7 +53,7 @@
         <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url(http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217103/cigar-whisky_x5eyk1.jpg);">
             <div class="blog-card-title">
               <h2>Le but principal est de vous faire plaisir, MAIS… </h2>
-              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 2017-02-22 00:00:00 +0000</p>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 22 Feb 2017</p>
               <div class="blog-read-btn">
                 <a href="/blog/faites-vous-plaisir-avec-le-whisky.html" >Lire</a>
               </div>
@@ -140,7 +66,7 @@
         <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url(http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217106/whisky-label_lsfthz.jpg);">
             <div class="blog-card-title">
               <h2>Comment lire l’étiquette d’un whisky et en comprendre les moindres détails</h2>
-              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 2017-01-27 00:00:00 +0000</p>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 27 Jan 2017</p>
               <div class="blog-read-btn">
                 <a href="/blog/comment-lire-une-etiquette-de-whisky.html" >Lire</a>
               </div>
@@ -153,7 +79,7 @@
         <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url(http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217111/anecdotes-gin_bgcui9.png);">
             <div class="blog-card-title">
               <h2>Quelques anecdotes surprenantes sur... le gin !</h2>
-              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 2017-01-09 00:00:00 +0000</p>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 09 Jan 2017</p>
               <div class="blog-read-btn">
                 <a href="/blog/anecdotes-surprenantes-sur-le-gin.html" >Lire</a>
               </div>
@@ -166,7 +92,7 @@
         <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url(http://res.cloudinary.com/dflt5cwj2/image/upload/v1490646120/whisky_noe%CC%88l_q2v16p.jpg);">
             <div class="blog-card-title">
               <h2>Quelques conseils pour ne pas plomber l’ambiance le soir de Noël (et les autres soirs)…</h2>
-              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 2016-12-18 00:00:00 +0000</p>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 18 Dec 2016</p>
               <div class="blog-read-btn">
                 <a href="/blog/conseils-pour-ne-pas-plomber-lambiance-le-soir-de-noel.html" >Lire</a>
               </div>
@@ -179,7 +105,7 @@
         <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url(http://res.cloudinary.com/dflt5cwj2/image/upload/v1490642787/aberlour_c0cyv7.jpg);">
             <div class="blog-card-title">
               <h2>Comment vous faire passer pour un fin connaisseur de malt</h2>
-              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 2016-01-03 00:00:00 +0000</p>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> 03 Jan 2016</p>
               <div class="blog-read-btn">
                 <a href="/blog/passer-pour-un-connaisseur-de-malt.html" >Lire</a>
               </div>
@@ -194,8 +120,8 @@
 
 
 
-<footer>
-   <div id="footer">
+    <footer>
+       <div id="footer">
       <ul class="list-inline">
         <li><a href=""><i class="fa fa-youtube"></i></a></li>
         <li><a href="https://www.instagram.com/spirits_trip/"><i class="fa fa-instagram"></i></a></li>
@@ -205,11 +131,11 @@
       <p>Grâce à Spiit's trip apprenez à déguster les spiritueux entre amis</p>
     </div>
 
-</footer>
+    </footer>
 
-<!-- Google Analytics -->
+  <!-- Google Analytics -->
 
-<!-- Google Analytics end -->
+  <!-- Google Analytics end -->
 
-</body>
+  </body>
 </html>
