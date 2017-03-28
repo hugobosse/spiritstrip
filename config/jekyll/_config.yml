@@ -1,3 +1,11 @@
+authors:
+  alexandre_cavalie:
+      name: Alexandre Cavalié
+      web: https://twitter.com/alexcavalie
+  hugo_bosse:
+      name: Hugo Bosse
+      web: https://twitter.com/hugoPYNOTS
+
 markdown: rdiscount
 permalink: /:title.html
 destination: ../../public/blog
@@ -6,3 +14,4 @@ exclude:
   - Rakefile
   - Gemfile
   - .gitignore
+

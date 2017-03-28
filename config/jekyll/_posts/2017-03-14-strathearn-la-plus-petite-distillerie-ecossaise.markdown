@@ -4,7 +4,7 @@ published: true
 title: "Strathearn, ou la plus petite distillerie écossaise !"
 image: "http://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,w_1500/v1490705500/IMG_1690_dm9u5e.jpg"
 tags: whisky distillerie scotch
-author: "Alexandre Cavalié"
+author: alexandre_cavalie
 ---
 
 Voici Strathearn, "probablement", comme ils aiment à le préciser sur leur site internet, la plus petite (mais pas la moins jolie) distillerie écossaise. Elle est située à Methven dans le Perthshire.

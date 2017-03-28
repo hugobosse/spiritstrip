@@ -3,24 +3,108 @@
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>Le but principal est de vous faire plaisir, MAIS… </title>
-   <meta name="author" content="Zach Bruhnke" />
 
    <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="/assets/application.css" type="text/css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 
 
-   <!-- Homepage CSS -->
+   <!-- Homepage CSS
    <link rel="stylesheet" href="/blog/css/screen.css" type="text/css" media="screen, projection" />
-
+-->
 </head>
 <body>
+  <header>
+      <div class="navbar-spirits">
+  <!-- Logo -->
+  <%= link_to root_path, class: "navbar-spirits-brand" do %>
+    <%= image_tag "logo.png" %>
+  <% end %>
 
+  <!-- Right Navigation -->
+  <div class="navbar-spirits-right hidden-xs hidden-sm">
 
-  <div class="title">
-    <a href="/">Spirit's Trip</a>
-    <a class="extra" href="/blog">Bienvenue sur le blog de Spirit's Trip</a>
+    <!-- Search form
+    <form action="" class="navbar-spirits-search">
+      <input type="text" class="navbar-spirits-search-input" placeholder="Search something">
+      <button type="submit" class="navbar-spirits-search-btn">
+        <i class="fa fa-search"></i>
+      </button>
+    </form>
+-->
+
+    <%= link_to "Accueil", root_path, class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Piliers", team_path, class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Echoppe", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" } %>
+    <%= link_to "Abonnements", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
+    <%= link_to "Dégustations", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
+    <%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %>
+    <!-- <#%= link_to "", class: "badge-container navbar-wagon-item navbar-wagon-link" do %>
+        <i class="fa fa-shopping-cart"></i>
+    <#% end %>-->
+    <!-- Different navigation if login or not -->
+    <% if user_signed_in? %>
+
+      <!-- Notification -->
+      <%= link_to "#", class: "navbar-spirits-item navbar-spirits-link" do %>
+        <div class="badge-container">
+          <i class="fa fa-envelope-o"></i>
+          <div class="badge badge-blue">3</div>
+        </div>
+      <% end %>
+
+      <!-- Profile picture and dropdown -->
+      <div class="navbar-spirits-item">
+        <div class="dropdown">
+          <%= image_tag "http://placehold.it/30x30", class: "avatar dropdown-toggle", id: "navbar-spirits-menu", "data-toggle" => "dropdown" %>
+          <ul class="dropdown-menu dropdown-menu-right navbar-spirits-dropdown-menu">
+            <li>
+              <%= link_to "#" do %>
+                <i class="fa fa-user"></i> <%= t(".profile", default: "Profile") %>
+              <% end %>
+            </li>
+            <li>
+              <%= link_to "#" do %>
+                <i class="fa fa-home"></i>  <%= t(".profile", default: "Home") %>
+              <% end %>
+            </li>
+            <li>
+              <%= link_to destroy_user_session_path, method: :delete do %>
+                <i class="fa fa-sign-out"></i>  <%= t(".sign_out", default: "Log out") %>
+              <% end %>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    <% else %>
+
+      <!-- Login text link -->
+      <!--
+      <#%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-spirits-item navbar-spirits-button btn" %>
+-->
+    <% end %>
+      <!-- Button (call-to-action)
+    <%= link_to t(".top_call_to_action", default: "Post stuff"), "#", class: "navbar-spirits-item navbar-spirits-button btn" %>
   </div>
+  -->
+</div>
+
+  <!-- Dropdown list appearing on mobile only -->
+  <div class="navbar-spirits-item hidden-md hidden-lg">
+    <div class="dropdown">
+      <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
+      <ul class="dropdown-menu dropdown-menu-right navbar-spirits-dropdown-menu">
+        <li><a href="#">Some mobile link</a></li>
+        <li><a href="#">Other one</a></li>
+        <li><a href="#">Other one</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+  </header>
 
   <div id="post">
 <p>L’art de la dégustation de spiritueux est un art complexe auquel il est préférable de s’initier même si vous entendrez dire de la part de bon nombre de professionnels : « buvez le comme il vous plait !».
@@ -71,6 +155,13 @@ Les beaux souvenirs font les plus grands plaisirs. Essayez ainsi d’imprimer da
 
 </div>
 
+
+
+  <span>
+        <!-- Personal Info. -->
+      <p>Written by <a href="https://twitter.com/alexcavalie" target="_blank">Alexandre Cavalié</a> </p>
+  </span>
+
 <div class="tags">
   
     <p>whisky</p>
@@ -89,28 +180,24 @@ Les beaux souvenirs font les plus grands plaisirs. Essayez ainsi d’imprimer da
     
       <li><span>27 Jan 2017</span> &raquo; <a href="/blog/comment-lire-une-etiquette-de-whisky.html">Comment lire l’étiquette d’un whisky et en comprendre les moindres détails</a></li>
     
-      <li><span>09 Jan 2017</span> &raquo; <a href="/blog/anecdotes-surprenantes-sur-le-gin.html">anecdotes-surprenantes-sur-le-gin</a></li>
+      <li><span>09 Jan 2017</span> &raquo; <a href="/blog/anecdotes-surprenantes-sur-le-gin.html">Quelques anecdotes surprenantes sur... le gin !</a></li>
     
   </ul>
 </div>
 
 
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Alexandre Cavalié<br />
-        Founder at <a href="http://www.spiritstrip.com/">Spirit's Trip</a><br />
-        tasting@spiritstrip.com
-      </p>
+<footer>
+   <div id="footer">
+      <ul class="list-inline">
+        <li><a href=""><i class="fa fa-youtube"></i></a></li>
+        <li><a href="https://www.instagram.com/spirits_trip/"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://www.facebook.com/spiritstrip/"><i class="fa fa-facebook"></i></a></li>
+        <li><a href=""><i class="fa fa-twitter"></i></a></li>
+      </ul>
+      <p>Grâce à Spiit's trip apprenez à déguster les spiritueux entre amis</p>
     </div>
-    <div class="contact">
-      <p>
-        <a href="https://www.instagram.com/spirits_trip/">instagram.com/spirits_trip</a><br />
-        <a href="https://twitter.com/alexcavalie">twitter.com/alexcavalie</a><br />
-        <a href="https://www.facebook.com/spiritstrip/">facebook.com/spiritstrip/</a>
-      </p>
-    </div>
-  </div>
+
+</footer>
 
 <!-- Google Analytics -->
 

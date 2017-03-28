@@ -4,7 +4,7 @@ published: true
 title: "Comment lire l’étiquette d’un whisky et en comprendre les moindres détails"
 image: "http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217106/whisky-label_lsfthz.jpg"
 tags: whisky whiskypedia degustation
-author: "Alexandre Cavalié"
+author: alexandre_cavalie
 ---
 
 De nombreux détails apparaissent sur l’étiquette d’une bouteille. Que nous indiquent-ils ?

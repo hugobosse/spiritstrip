@@ -4,7 +4,7 @@
  <title>BLOG_NAME</title>
  <link href="YOUR_URL/atom.xml" rel="self"/>
  <link href="YOUR_URL"/>
- <updated>2017-03-28T15:01:57+01:00</updated>
+ <updated>2017-03-28T17:50:44+01:00</updated>
  <id>BLOG_URL</id>
  <author>
    <name>BLOG_NAME</name>
@@ -170,7 +170,7 @@ Cette mention indique l’absence de filtration du whisky entre la sortie du fû
  </entry>
  
  <entry>
-   <title>anecdotes-surprenantes-sur-le-gin</title>
+   <title>Quelques anecdotes surprenantes sur... le gin !</title>
    <link href="YOUR_URL/anecdotes-surprenantes-sur-le-gin.html"/>
    <updated>2017-01-09T00:00:00+00:00</updated>
    <id>BLOG_URL/anecdotes-surprenantes-sur-le-gin</id>

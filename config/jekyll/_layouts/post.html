@@ -1,9 +1,17 @@
 ---
 layout: default
 ---
+
 <div id="post">
 {{ content }}
 </div>
+
+{% assign author = site.authors[page.author] %}
+
+  <span>
+        <!-- Personal Info. -->
+      <p>Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a> </p>
+  </span>
 
 <div class="tags">
   {% for tag in page.tags %}

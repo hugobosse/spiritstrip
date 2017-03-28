@@ -3,43 +3,26 @@
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>{{ page.title }}</title>
-   <meta name="author" content="Zach Bruhnke" />
 
    <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="/assets/application.css" type="text/css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 
 
-   <!-- Homepage CSS -->
+   <!-- Homepage CSS
    <link rel="stylesheet" href="/blog/css/screen.css" type="text/css" media="screen, projection" />
-
+-->
 </head>
 <body>
-
-
-  <div class="title">
-    <a href="/">Spirit's Trip</a>
-    <a class="extra" href="/blog">Bienvenue sur le blog de Spirit's Trip</a>
-  </div>
+  <header>
+      {% include nav.html %}
+  </header>
 
   {{ content }}
 
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Alexandre Cavalié<br />
-        Founder at <a href="http://www.spiritstrip.com/">Spirit's Trip</a><br />
-        tasting@spiritstrip.com
-      </p>
-    </div>
-    <div class="contact">
-      <p>
-        <a href="https://www.instagram.com/spirits_trip/">instagram.com/spirits_trip</a><br />
-        <a href="https://twitter.com/alexcavalie">twitter.com/alexcavalie</a><br />
-        <a href="https://www.facebook.com/spiritstrip/">facebook.com/spiritstrip/</a>
-      </p>
-    </div>
-  </div>
+<footer>
+  {% include footer.html %}
+</footer>
 
 <!-- Google Analytics -->
 

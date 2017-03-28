@@ -4,7 +4,7 @@ published: false
 title: "L'eau, l'élément sinequanone !"
 image: "http://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,w_600/v1490704880/IMG_1767_nhhwin.jpg"
 tags: whisky whiskypedia
-author: "Alexandre Cavalié"
+author: alexandre_cavalie
 ---
 
 " Son ton feutré et son accent écossais évoquaient pour moi une pluie fine et régulière."
