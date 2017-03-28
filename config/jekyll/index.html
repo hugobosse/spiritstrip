@@ -5,11 +5,22 @@ title: Le blog de Spirit's Trip
 
 <div id="home">
   <h1>Blog Posts</h1>
-  <ul class="posts-list">
+  <div class="container">
     {% for post in site.posts %}
-      <li class="post">
-        <span>{{ post.date | date_to_string }}</span> &raquo; <a href="/blog{{ post.url }}">{{ post.title }}</a>
-      </li>
+      <div class="col-xs-12 col-sm-6">
+        <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url({{post.image}});">
+            <div class="blog-card-title">
+              <h2>{{post.title}}</h2>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> {{post.date}}</p>
+              <div class="blog-read-btn">
+                <a href="/blog{{ post.url }}" >Lire</a>
+              </div>
+            </div>
+            <a class="card-link" href="/blog{{ post.url }}" ></a>
+        </div>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>
+
+

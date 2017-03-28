@@ -2,6 +2,9 @@
 layout: post
 published: true
 title: "Le but principal est de vous faire plaisir, MAIS… "
+image: "http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217103/cigar-whisky_x5eyk1.jpg"
+tags: whisky degustation whiskypedia
+author: "Alexandre Cavalié"
 ---
 
 L’art de la dégustation de spiritueux est un art complexe auquel il est préférable de s’initier même si vous entendrez dire de la part de bon nombre de professionnels : « buvez le comme il vous plait !».

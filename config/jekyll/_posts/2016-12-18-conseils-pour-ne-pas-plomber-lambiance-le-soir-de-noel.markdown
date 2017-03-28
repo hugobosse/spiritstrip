@@ -2,6 +2,9 @@
 layout: post
 published: true
 title: "Quelques conseils pour ne pas plomber l’ambiance le soir de Noël (et les autres soirs)…"
+image: "http://res.cloudinary.com/dflt5cwj2/image/upload/v1490646120/whisky_noe%CC%88l_q2v16p.jpg"
+tags: whisky culture dégustation
+author: "Alexandre Cavalié"
 ---
 
 

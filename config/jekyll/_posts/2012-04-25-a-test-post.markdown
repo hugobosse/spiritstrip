@@ -1,6 +1,10 @@
 ---
 layout: post
-title: A Test Post
+title:  "Comment lire l'étiquette d'un whisky et en comprendre les moindres détails"
+image: whisky-label.jpg
+tags: whisky apprentissage whiskypedia
+author: 'Alexandre Cavalié'
+permalink: /comment-lire-une-etiquette-de-whisky/
 published: false
 ---
 

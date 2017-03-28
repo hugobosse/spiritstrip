@@ -2,6 +2,9 @@
 layout: post
 published: true
 title: anecdotes-surprenantes-sur-le-gin
+image: "http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217111/anecdotes-gin_bgcui9.png"
+tags: gin degustation culture
+author: "Alexandre Cavalié"
 ---
 
 Si vous pensiez que le Gin vient des Pays-Bas ou encore qu’on cultive des baies de genièvre pour sa fabrication, vous faites fausse route…

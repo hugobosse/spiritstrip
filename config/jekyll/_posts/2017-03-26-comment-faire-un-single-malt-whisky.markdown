@@ -3,6 +3,8 @@ layout: post
 published: false
 title: "Et finalement, comment fait on un Single Malt ?"
 tags: whisky whiskypedia culture
+image: "http://res.cloudinary.com/spirit-s-trip/image/upload/v1490705653/IMG_4937_nkrccu.jpg"
+author: "Alexandre Cavalié"
 ---
 
 Cela fait aujourd’hui trois semaines pile que je suis au pays du chardon !

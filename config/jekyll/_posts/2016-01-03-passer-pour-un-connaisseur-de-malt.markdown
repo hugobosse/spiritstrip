@@ -2,6 +2,9 @@
 layout: post
 published: true
 title: "Comment vous faire passer pour un fin connaisseur de malt"
+image: "http://res.cloudinary.com/dflt5cwj2/image/upload/v1490642787/aberlour_c0cyv7.jpg"
+tags: whisky astuce whiskypedia
+author: "Alexandre Cavalié"
 ---
 Dans le dernier article, nous vous expliquions avec humour quelles étaient les questions à ne pas poser pour éviter de passer pour un blanc-bec du whisky. Pour compléter ces premiers conseils et bien commencer la nouvelle année, nous vous donnons quelques pistes afin que vous puissiez « faire genre » au sein d’une conversation entre « vieux routiers du malt »…
 
