@@ -38,13 +38,16 @@
   background: #963C3E;
   transition: all .3s ease-in-out;  width: 150px;
   font-weight:lighter;
-}
-
-.banner .btn:hover {
+  &:focus {
+    outline: 0;
+  }
+  &:hover{
   background-position: 200% 100%;
   background-color: #FCC765;
   border-color: #BA985A;
   color: white;
+  }
+
 }
 
 

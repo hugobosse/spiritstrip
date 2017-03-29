@@ -42,19 +42,30 @@
   flex: 0 1 auto;
   cursor: pointer;
   padding: 0 15px;
-  color: $spirit
+  color: $spirit;
+    &:focus {
+    outline: 0;
+    color: $whisky
+  }
 }
 
 /* Navbar standard link */
 .navbar-spirits-link {
   color: $spirit;
+  &:hover {
+    color: $whisky;
+  }
+  &:focus {
+    outline: 0;
+    color: $whisky
+  }
 }
-.navbar-spirits-link:hover {
-  color: $whisky;
-}
+
+
 .navbar-spirits-link:active {
   color: $whisky;
   text-decoration: none;
+  border: none;
 }
 
 /* Navbar right button */
