@@ -11,21 +11,38 @@
   margin-bottom: 20px;
 }
 
-.blog-card-tag a{
-  z-index:4;
-  border-radius: 4px;
-  padding: 2px 10px;
-  color: white;
-  font-size: 14px;
-  border: 2px solid white !important;
-  a:hover{
-    color: #FCC765;
+.related .blog-card {
+  padding : 1px 10px !important;
+}
+.author {
+  position:absolute;
+  bottom: 5px;
+  left: 10px;
+}
+
+.blog-card-tag {
+  display:flex;
+  justify-content: center;
+  a{
+    z-index:4;
+    border-radius: 4px;
+    padding: 2px 10px;
+    color: white;
+    font-size: 14px;
+    border: 2px solid white !important;
+    margin: 2px;
+    a:hover{
+      color: #FCC765;
+    }
   }
 }
 
 .blog-card-title{
   z-index:4;
   color:white;
+  h4 {
+    color: $coal;
+  }
 }
 
 .blog-card-title a{
@@ -69,4 +86,11 @@
 }
 .card-link:hover{
   opacity: 0.1;
+}
+
+
+#post {
+  padding: 30px 60px;
+  line-height: 2;
+  font-size: 18px;
 }

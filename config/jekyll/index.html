@@ -1,0 +1,26 @@
+---
+layout: default
+title: Le blog de Spirit's Trip
+---
+
+<div id="home">
+  <h1>Bienvenue sur le blog de Spirit's Trip</h1>
+  <div class="container">
+    {% for post in site.posts %}
+      <div class="col-xs-12 col-sm-6">
+        <div class="blog-card" style="background: linear-gradient(rgba(56,59,61,0.7), rgba(56,59,61,0.7)), url({{post.image}});">
+            <div class="blog-card-title">
+              <h2>{{post.title}}</h2>
+              <p>Par <a href="https://www.facebook.com/spiritstrip/">Spirit's Trip</a> le {{post.date  | date_to_string }}</p>
+              <div class="blog-read-btn">
+                <a href="/blog{{ post.url }}" >Lire</a>
+              </div>
+            </div>
+            <a class="card-link" href="/blog{{ post.url }}" ></a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+
