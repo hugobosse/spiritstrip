@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "Le but principal est de vous faire plaisir, MAIS… "
-image: "http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217103/cigar-whisky_x5eyk1.jpg"
+image: "https://res.cloudinary.com/dflt5cwj2/image/upload/v1490217103/cigar-whisky_x5eyk1.jpg"
 tags: whisky degustation whiskypedia
 author: alexandre_cavalie
 ---

@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: "L'eau, l'élément sinequanone !"
-image: "http://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,w_600/v1490704880/IMG_1767_nhhwin.jpg"
+image: "https://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,w_600/v1490704880/IMG_1767_nhhwin.jpg"
 tags: whisky whiskypedia
 author: alexandre_cavalie
 ---
