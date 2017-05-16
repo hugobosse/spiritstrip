@@ -1,30 +1,10 @@
-.concept-bg{
-  margin-top:60px;
-  background-position: top center;
-  background-size: cover;
-  min-width: 100%;
-  min-height: 100%;
-}
-
-.concept{
-  color: white;
-  text-shadow: 1px 1px 1px $coal;
-  padding: 30px;
-  background:
-    linear-gradient( rgba($coal, 0.7), rgba($coal, 0.7));
-  box-shadow: 0px 0px 40px -8px rgba($coal,0.75);
-  .row{
-    background-color: $spirit;
-    padding: 30px 0;
-    margin: 0 -50px;
-  }
-  h1 {
-    font-family: $header-font;
-  }
-}
-
 #concept-header {
-  padding-left: 30px;
+  padding: 30px;
+  color: white;
+  background-color: $spirit;
+    h1 {
+  font-family: $header-font;
+  }
 }
 
 #video {
@@ -35,19 +15,5 @@
     border: solid 5px $gold;
     border-radius: 5px;
     box-shadow: 3px 3px 20px rgba($coal, 0.4);
-  }
-}
-
-.text {
-  padding: 30px;
-  h1{
-    text-align: center;
-    border-top: 1px dashed $coal;
-    padding-top: 30px;
-  }
-    p {
-    font-family: $base-font;
-    font-size: 20px;
-    padding-bottom: 10px;
   }
 }
