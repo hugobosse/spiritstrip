@@ -3,6 +3,7 @@ layout: post
 published: true
 title: "Quelques anecdotes surprenantes sur... le gin !"
 image: "https://res.cloudinary.com/dflt5cwj2/image/upload/v1490217111/anecdotes-gin_bgcui9.png"
+
 tags: gin degustation culture
 author: alexandre_cavalie
 ---
@@ -27,16 +28,24 @@ Seul le distillat pur est utilisé. Il est séparé du reste du distillat afin d
 
 La plupart des gins ne nécessitent pas de passer par un processus de vieillissement.
 Maintenant que vous êtes rodés sur les procédés de fabrication des différents gins, il est enfin temps de passer à ses fameuses anecdotes relatées par Monsieur Jared Brown. En voici quelques unes des plus surprenantes :
-1- En 1726, Londres disposait de 1500 ateliers de production de gin et l’on pouvait en acheter dans 6 287 endroits différents rien que dans la ville.
-2- Le gin mélangé au jus de tomate était à la mode à New York peu avant les années 1930’s, longtemps avant que le Bloody Mary, à base de vodka, ne fasse son apparition dans les livres de recettes. Ce cocktail servait notamment de cure « anti gueule de bois ».
-3- La quasi-totalité des baies de genièvre utilisées dans la confection des gins sont d’origine sauvage.
-4- Alors que les matelots de la flotte britannique recevaient une ration quotidienne de rhum, les officiers eux recevaient chaque jour une ration de gin. #uplevel
-5- Faits peu connus : la meilleure façon de comparer deux gins est de les boire à température ambiante, diluée avec une quantité d’eau égale. Cela relèvera à la fois les leurs qualités et leurs défauts.
-6- Le pays dont la consommation de gin par habitant est la plus élevée au monde est : les Philippines. Avec environ 1.5 litre consommé par an par habitant.
-7- La baie de genièvre n’est en fait pas une baie… c’est une graine. Voila. Je vous laisse aller voir la différence qu’il existe entre les baies et les graines.
-8- Le Gin Tonic a d’abord gagné en popularité dans les colonies britanniques. La quinine contenue dans l’Indian Tonic a en effet des vertus efficaces contre le paludisme. Seulement, son goût est si amer qu’on a décidé à l’époque de le mélanger avec de l’eau gazeuse, du sucre et du citron. Pour couronner le tout on a ajouté un peu de gin. Et oui, sinon les colons oubliaient de consommer leur dose de quinine et n’étaient plus protégés… sacrés British !
+
+1. En 1726, Londres disposait de 1500 ateliers de production de gin et l’on pouvait en acheter dans 6 287 endroits différents rien que dans la ville.
+
+2. Le gin mélangé au jus de tomate était à la mode à New York peu avant les années 1930’s, longtemps avant que le Bloody Mary, à base de vodka, ne fasse son apparition dans les livres de recettes. Ce cocktail servait notamment de cure « anti gueule de bois ».
+
+3. La quasi-totalité des baies de genièvre utilisées dans la confection des gins sont d’origine sauvage.
+
+4. Alors que les matelots de la flotte britannique recevaient une ration quotidienne de rhum, les officiers eux recevaient chaque jour une ration de gin. #uplevel
+
+5. Faits peu connus : la meilleure façon de comparer deux gins est de les boire à température ambiante, diluée avec une quantité d’eau égale. Cela relèvera à la fois les leurs qualités et leurs défauts.
+
+6. Le pays dont la consommation de gin par habitant est la plus élevée au monde est : les Philippines. Avec environ 1.5 litre consommé par an par habitant.
+
+7. La baie de genièvre n’est en fait pas une baie… c’est une graine. Voila. Je vous laisse aller voir la différence qu’il existe entre les baies et les graines.
+
+8. Le Gin Tonic a d’abord gagné en popularité dans les colonies britanniques. La quinine contenue dans l’Indian Tonic a en effet des vertus efficaces contre le paludisme. Seulement, son goût est si amer qu’on a décidé à l’époque de le mélanger avec de l’eau gazeuse, du sucre et du citron. Pour couronner le tout on a ajouté un peu de gin. Et oui, sinon les colons oubliaient de consommer leur dose de quinine et n’étaient plus protégés… sacrés British !
 
 
-Sláinte !
+**Sláinte !**
 
-Spirit's Trip
+**Spirit's Trip**
