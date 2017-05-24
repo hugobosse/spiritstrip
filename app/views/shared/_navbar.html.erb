@@ -79,9 +79,13 @@
     <div class="dropdown">
       <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
       <ul class="dropdown-menu dropdown-menu-right navbar-spirits-dropdown-menu">
-        <li><a href="#">Some mobile link</a></li>
-        <li><a href="#">Other one</a></li>
-        <li><a href="#">Other one</a></li>
+        <li><%= link_to "Accueil", root_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
+        <li><%= link_to "Piliers", team_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
+        <li><%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
+        <li><%= link_to "Echoppe", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" } %></li>
+        <li><%= link_to "Abonnements", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %></li>
+        <li><%= link_to "Dégustations", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %></li>
+        <li><%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
       </ul>
     </div>
   </div>
