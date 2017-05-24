@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-title: Comment lire l’étiquette d’un whisky et en comprendre les moindres détails
-image: >-
-  http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217106/whisky-label_lsfthz.jpg
+title: "Comment lire l’étiquette d’un whisky et en comprendre les moindres détails"
+image: "https://res.cloudinary.com/dflt5cwj2/image/upload/v1490217106/whisky-label_lsfthz.jpg"
+
 tags: whisky whiskypedia degustation
 author: alexandre_cavalie
 ---

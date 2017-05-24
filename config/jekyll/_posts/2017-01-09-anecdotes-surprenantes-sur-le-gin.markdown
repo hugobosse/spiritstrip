@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-title: Quelques anecdotes surprenantes sur... le gin !
-image: >-
-  http://res.cloudinary.com/dflt5cwj2/image/upload/v1490217111/anecdotes-gin_bgcui9.png
+title: "Quelques anecdotes surprenantes sur... le gin !"
+image: "https://res.cloudinary.com/dflt5cwj2/image/upload/v1490217111/anecdotes-gin_bgcui9.png"
+
 tags: gin degustation culture
 author: alexandre_cavalie
 ---

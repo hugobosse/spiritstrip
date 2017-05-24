@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-title: Comment vous faire passer pour un fin connaisseur de malt
-image: >-
-  http://res.cloudinary.com/dflt5cwj2/image/upload/v1490642787/aberlour_c0cyv7.jpg
+title: "Comment vous faire passer pour un fin connaisseur de malt"
+image: "https://res.cloudinary.com/dflt5cwj2/image/upload/v1494860832/whisky-home-bg_dcadim.jpg"
+
 tags: whisky astuce whiskypedia
 author: alexandre_cavalie
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-title: 'Strathearn, ou la plus petite distillerie écossaise !'
-image: >-
-  http://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,w_1500/v1490705500/IMG_1690_dm9u5e.jpg
+title: "Strathearn, ou la plus petite distillerie écossaise !"
+image: "https://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,w_1500/v1490705500/IMG_1690_dm9u5e.jpg"
+
 tags: whisky distillerie scotch
 author: alexandre_cavalie
 ---

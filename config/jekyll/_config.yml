@@ -7,8 +7,9 @@ authors:
       web: https://twitter.com/hugoPYNOTS
 
 markdown: rdiscount
-permalink: /:title.html
-destination: ../../public/blog
+permalink: /:title
+destination: ../../app/views/blog
+
 auto: true
 exclude:
   - Rakefile

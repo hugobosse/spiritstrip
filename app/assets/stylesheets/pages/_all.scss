@@ -1,0 +1,30 @@
+.top{
+  margin-top: 60px;
+}
+
+.page-content {
+  text-align: center;
+  line-height: 2;
+  h1 {
+  font-family: $header-font;
+  }
+  p{
+  font-family: $base-font;
+  }
+  .prgrph {
+    padding: $padding;
+    width: 100%;
+  }
+  .redonwhite {
+    color: $spirit;
+    background-color: white;
+  }
+  .whiteonred {
+    color: white;
+    background-color: $spirit;
+  }
+  .darkonwhite {
+    color: $coal;
+    background-color: white;
+  }
+}
