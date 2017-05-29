@@ -2,9 +2,9 @@
  * Fonts
  * ------------------------------------- */
 // Google fonts
-@import url("https://fonts.googleapis.com/css?family=Open+Sans|Yantramanav|Roboto+Slab");
+@import url("https://fonts.googleapis.com/css?family=Yantramanav:300,400,900");
 $base-font: "Yantramanav", "Open Sans", "Helvetica", "sans-serif";
-$header-font: "Yantramanav", "Roboto Slab", "serif";
+$header-font: "Yantramanav", "serif";
 
 // Local fonts (uncomment following lines)
 // @font-face {
@@ -24,8 +24,9 @@ $base-height: 1.4;
  * Colors
  * ------------------------------------- */
 // Scheme
-$spirit: rgb(150, 60, 62);
-$whisky: rgb(252, 199, 101);
+$spirit: rgb(110, 44, 46);
+$spirit2: rgb(86, 23, 25);
+$whisky: rgb(255, 186, 44);
 $gold: rgb(186, 152, 90);
 $peat: rgb(119, 105, 78);
 $coal: rgb(56, 59, 61);

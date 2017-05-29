@@ -1,5 +1,5 @@
 .red-zone{
-  background: #963C3E;
+  background: $spirit;
   padding: 30px;
   color: white;
   display:flex;
@@ -15,13 +15,14 @@
   padding: 0 15px;
   border-radius: 4px;
   line-height: 30px;
-  background-color: #963C3E;
-  color: #BA985A;
+  background-color: $spirit;
+  color: white;
   font-size: 14px;
-  border: 2px solid #BA985A !important;
+  border: 2px solid white !important;
 }
 
 .btn-bordered-gold:hover{
-  border: 2px solid #FCC765 !important;
-  color: #FCC765;
+  background-color: $whisky;
+  border: 2px solid $whisky !important;
+  color: white;
 }

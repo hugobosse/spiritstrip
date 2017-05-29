@@ -7,9 +7,11 @@
   line-height: 2;
   h1 {
   font-family: $header-font;
+  font-weight: 900;
   }
   p{
   font-family: $base-font;
+  font-weight: 300;
   }
   .prgrph {
     padding: $padding;

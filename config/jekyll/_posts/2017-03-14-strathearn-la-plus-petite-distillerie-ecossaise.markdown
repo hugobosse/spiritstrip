@@ -8,7 +8,7 @@ tags: whisky distillerie scotch
 author: alexandre_cavalie
 ---
 
-![]({{site.baseurl}}/http://res.cloudinary.com/spirit-s-trip/image/upload/v1495567570/Instagram/IMG_1696.jpg)
+![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567570/Instagram/IMG_1696.jpg)
 
 Voici Strathearn, "probablement", comme ils aiment à le préciser sur leur site internet, la plus petite (mais pas la moins jolie) distillerie écossaise. Elle est située à Methven dans le Perthshire.
 Aux abords de cette longue et jolie bâtisse de pierres, typiquement écossaise, on ne peut deviner cette caractéristique. Car ce qu'on ne sais pas en arrivant c'est que cette bâtisse sert également de base, pour sa plus grande partie, à Bluesky Experience, un groupe spécialisé dans les séminaires d'entreprises.
@@ -17,7 +17,7 @@ Ce n'est qu'une fois à l'intérieur que le mot "petit" prend tout son sens.
 Deux Mash Tuns (cuves de brassage) d'une taille à à peine rendre jalouse une machine à laver. Un seul Washback (cuve de fermentation) et là encore, une dizaine de fois plus petit que chez Kingsbarns où il y en a trois; elle même considérée comme une petite distillerie...
 
 
-![]({{site.baseurl}}/http://res.cloudinary.com/spirit-s-trip/image/upload/v1495567608/Instagram/IMG_1665.jpg)
+![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567608/Instagram/IMG_1665.jpg)
 _Le Washback de la distillerie_
 
 
@@ -26,7 +26,7 @@ _Le Washback de la distillerie_
 
 Chez Strathearn les choses sont définitivement plus petites :
 
-![]({{site.baseurl}}/http://res.cloudinary.com/spirit-s-trip/image/upload/v1495567587/Instagram/IMG_1667.jpg)
+![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567587/Instagram/IMG_1667.jpg)
 _"Bella the Stripper" & "Wee Erin" les deux Pot Still_
 
 
@@ -48,7 +48,7 @@ Tony à donc décidé de faire vieillir une part de sa production dans des fût 
 Attention, ce n'est pas parce que ça vieilli plus vite que ça s'appellera whisky plus rapidement. Que nenni ! Trois ans et un jour on vous a dit !
 
 
-![]({{site.baseurl}}/http://res.cloudinary.com/spirit-s-trip/image/upload/v1495567594/Instagram/IMG_1675.jpg)
+![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567594/Instagram/IMG_1675.jpg)
 _Pas plus d'une cinquantaine de fûts (5000 chez Tullibardine)_
 
 A juste titre les plus curieux se demanderont pourquoi alors cela vieillit il plus vite dans un petit fût que dans un grand... nous ne prenons pas plus de rides dans un petit lit que je sache !
@@ -58,7 +58,7 @@ Plus le fût est petit, plus, proportionnellement à la quantité d'alcool conte
 Cette surface de contacte "augmentée" induit donc une interaction entre l'air, le bois et l'alcool beaucoup plus importante donc un "vieillissement" plus rapide. Même si je vous l'accorde, le futur whisky n'aura de toute façon trois ans que dans trois ans... Ok...
 
 
-![]({{site.baseurl}}/http://res.cloudinary.com/spirit-s-trip/image/upload/v1495567587/Instagram/IMG_1674.jpg)
+![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567587/Instagram/IMG_1674.jpg)
 _Les premiers fûts ! (déjà vendus aux enchères pour une petite fortune)_
 
 Strathearn a même experimenté des vieillisements en fût de 2,5 L, oui monsieur...
@@ -80,4 +80,4 @@ Et n'oubliez pas, ici tout se goûte avec le doigt ;)
 
 **Spirit’s Trip.**
 
-![]({{site.baseurl}}/http://res.cloudinary.com/spirit-s-trip/image/upload/v1495567608/Instagram/IMG_1670.jpg)
+![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567608/Instagram/IMG_1670.jpg)
