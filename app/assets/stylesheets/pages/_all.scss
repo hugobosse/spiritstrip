@@ -15,6 +15,9 @@
   .prgrph {
     padding: $padding;
     width: 100%;
+    p{
+    text-align: justify;
+    }
   }
   .redonwhite {
     color: $spirit;

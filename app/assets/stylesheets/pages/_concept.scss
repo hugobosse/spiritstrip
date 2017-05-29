@@ -1,10 +1,6 @@
 #concept-header {
   padding: 30px;
-  color: white;
-  background-color: $spirit;
-    h1 {
-  font-family: $header-font;
-  }
+  color: $spirit;
 }
 
 #video {
@@ -12,7 +8,7 @@
   display: flex;
   justify-content: space-around;
   #video-object {
-    border: solid 5px $gold;
+    border: solid 5px $coal;
     border-radius: 5px;
     box-shadow: 3px 3px 20px rgba($coal, 0.4);
   }
