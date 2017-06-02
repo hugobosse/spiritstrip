@@ -46,14 +46,15 @@
 }
 
 .blog-card-title a{
-  color:#BA985A;
+  color: $whisky;
   text-decoration: underline;
   z-index:4;
 }
 
 .blog-card-title a:hover{
-  color:#96363E;
   text-decoration: underline;
+  color: $whisky;
+  border: 2px solid $whisky !important;
 }
 
 .blog-read-btn {

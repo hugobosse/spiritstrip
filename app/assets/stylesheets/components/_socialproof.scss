@@ -1,11 +1,9 @@
 figure.snip1390 {
   position: relative;
-  float: left;
   overflow: hidden;
-  margin: 10px 1%;
   min-width: 230px;
   max-width: 315px;
-  min-height: 461px;
+  min-height: 514px;
   width: 100%;
   color: #000000;
   text-align: center;
@@ -27,11 +25,7 @@ figure.snip1390 *:after {
 figure.snip1390 figcaption {
   width: 100%;
 }
-figure.snip1390 h2,
-figure.snip1390 h4,
-figure.snip1390 blockquote {
-  margin: 0;
-}
+
 figure.snip1390 h2,
 figure.snip1390 h4 {
   font-weight: 300;
@@ -52,6 +46,7 @@ figure.snip1390 blockquote {
   box-shadow: inset -1.4px -1.4px 2px rgba($coal, 0.3);
   text-align: left;
   position: relative;
+  min-height: 250px;
 }
 figure.snip1390 blockquote:before {
   content: "\201C";
