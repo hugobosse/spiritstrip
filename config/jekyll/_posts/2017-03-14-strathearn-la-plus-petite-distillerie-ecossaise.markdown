@@ -8,7 +8,7 @@ tags: whisky distillerie scotch
 author: alexandre_cavalie
 ---
 
-![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567570/Instagram/IMG_1696.jpg)
+![]({{site.baseurl}}https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567570/Instagram/IMG_1696.jpg)
 
 Voici Strathearn, "probablement", comme ils aiment à le préciser sur leur site internet, la plus petite (mais pas la moins jolie) distillerie écossaise. Elle est située à Methven dans le Perthshire.
 Aux abords de cette longue et jolie bâtisse de pierres, typiquement écossaise, on ne peut deviner cette caractéristique. Car ce qu'on ne sais pas en arrivant c'est que cette bâtisse sert également de base, pour sa plus grande partie, à Bluesky Experience, un groupe spécialisé dans les séminaires d'entreprises.
@@ -17,7 +17,7 @@ Ce n'est qu'une fois à l'intérieur que le mot "petit" prend tout son sens.
 Deux Mash Tuns (cuves de brassage) d'une taille à à peine rendre jalouse une machine à laver. Un seul Washback (cuve de fermentation) et là encore, une dizaine de fois plus petit que chez Kingsbarns où il y en a trois; elle même considérée comme une petite distillerie...
 
 
-![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567608/Instagram/IMG_1665.jpg)
+![]({{site.baseurl}}https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567608/Instagram/IMG_1665.jpg)
 _Le Washback de la distillerie_
 
 
@@ -26,7 +26,7 @@ _Le Washback de la distillerie_
 
 Chez Strathearn les choses sont définitivement plus petites :
 
-![]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567587/Instagram/IMG_1667.jpg)
+![]({{site.baseurl}}https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567587/Instagram/IMG_1667.jpg)
 _"Bella the Stripper" & "Wee Erin" les deux Pot Still_
 
 
