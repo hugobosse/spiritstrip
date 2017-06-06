@@ -1,0 +1,26 @@
+<div class="top padded">
+  <h1 class ="text-center">Et si vous offriez à Papa un whisky qui lui ressemble ?</h1>
+  <div class="container">
+    <div class="row">
+      <% @products.each do |product| %>
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="product">
+            <h2 class ="text-center">
+              <%= product.title %>
+            </h2>
+            <%= link_to image_tag(product.image) %>
+            <h4>
+              <%= product.price %>€ - <%= product.name %>, <em><%= product.size.name %></em>
+            </h4>
+            <p>
+              <%= product.description %>
+            </p>
+            <p>
+              <strong>Notes principales :</strong> <%= product.note %>
+            </p>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
