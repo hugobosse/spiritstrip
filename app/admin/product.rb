@@ -4,7 +4,7 @@ ActiveAdmin.register Product do
     column :name
     column :title
     column :category
-    column :price, sortable: :price do |product|
+    column :price_cents, sortable: :price_cents do |product|
       number_to_currency product.price
     end
     column :description
@@ -25,6 +25,6 @@ ActiveAdmin.register Product do
 #   permitted
 # end
 
-  permit_params :name, :price, :description, :title, :size_id, :category_id, :note, :image
+  permit_params :name, :price_cents, :description, :title, :size_id, :category_id, :note, :image
 
 end

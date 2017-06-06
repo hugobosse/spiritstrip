@@ -10,7 +10,7 @@
             </h2>
             <%= link_to image_tag(product.image) %>
             <h4>
-              <%= product.price %>€ - <%= product.name %>, <em><%= product.size.name %></em>
+              <%= humanized_money_with_symbol(product.price) %> - <%= product.name %>, <em><%= product.size.name %></em>
             </h4>
             <p>
               <%= product.description %>

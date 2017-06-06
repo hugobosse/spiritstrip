@@ -20,6 +20,8 @@ gem 'autoprefixer-rails'
 gem 'bloggy'
 gem 'activeadmin', github: 'activeadmin/activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'money-rails'
+gem 'stripe'
 
 group :development, :test do
   gem 'binding_of_caller'

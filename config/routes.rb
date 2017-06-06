@@ -6,6 +6,10 @@ Rails.application.routes.draw do
   get '/team/', to: 'pages#team', as: 'team'
   get '/valeurs/', to: 'pages#concept', as: 'concept'
 
+  resources :orders, only: [:show, :create] do
+    resources :payments, only: [:new, :create]
+  end
+
   get '/products/', to: 'products#index'
   get "products/:id", to: "products#show"
 
