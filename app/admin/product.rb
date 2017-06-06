@@ -8,6 +8,8 @@ ActiveAdmin.register Product do
       number_to_currency product.price
     end
     column :description
+    column :note
+    column :image
     actions
   end
 # See permitted parameters documentation:
@@ -23,6 +25,6 @@ ActiveAdmin.register Product do
 #   permitted
 # end
 
-  permit_params :name, :price, :description, :title, :size_id, :category_id
+  permit_params :name, :price, :description, :title, :size_id, :category_id, :note, :image
 
 end
