@@ -10,7 +10,7 @@ Rails.application.routes.draw do
     resources :payments, only: [:new, :create]
   end
 
-  resources :products, only: [:index]
+  resources :products, only: [:index, :show]
 
   get 'blog', to: 'blog#index'
   get 'blog/:title', to: 'blog#post'
