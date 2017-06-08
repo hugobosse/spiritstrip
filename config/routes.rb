@@ -10,8 +10,7 @@ Rails.application.routes.draw do
     resources :payments, only: [:new, :create]
   end
 
-  get '/products/', to: 'products#index'
-  get "products/:id", to: "products#show"
+  resources :products, only: [:index]
 
   get 'blog', to: 'blog#index'
   get 'blog/:title', to: 'blog#post'

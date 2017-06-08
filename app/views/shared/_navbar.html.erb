@@ -19,7 +19,7 @@
     <%= link_to "Accueil", root_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Fine équipe", team_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Boutique", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" } %>
+    <%= link_to "Boutique", products_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Abonnement", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
     <%= link_to "Dégustations", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
     <%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %>
@@ -28,14 +28,6 @@
     <#% end %>-->
     <!-- Different navigation if login or not -->
     <% if user_signed_in? %>
-
-      <!-- Notification -->
-      <%= link_to "#", class: "navbar-spirits-item navbar-spirits-link" do %>
-        <div class="badge-container">
-          <i class="fa fa-envelope-o"></i>
-          <div class="badge badge-blue">3</div>
-        </div>
-      <% end %>
 
       <!-- Profile picture and dropdown -->
       <div class="navbar-spirits-item">
