@@ -9,7 +9,7 @@
   justify-content: space-around;
   #video-object {
     border: solid 5px $coal;
-    border-radius: 5px;
+    border-radius: $radius;
     box-shadow: 3px 3px 20px rgba($coal, 0.4);
   }
 }
