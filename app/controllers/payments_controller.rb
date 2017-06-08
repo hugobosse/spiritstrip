@@ -1,5 +1,6 @@
 class PaymentsController < ApplicationController
   before_action :set_order
+  before_action :authenticate_user!
 
   def new
   end
@@ -13,7 +14,7 @@ class PaymentsController < ApplicationController
     charge = Stripe::Charge.create(
       customer:     customer.id,   # You should store this customer id and re-use it.
       amount:       @order.amount_cents, # or amount_pennies
-      description:  "Payment for Spirit's Trip #{@order.product_sku} for order #{@order.id}",
+      description:  "Payment pour Spirit's Trip #{@order.product_sku} for order #{@order.id}",
       currency:     @order.amount.currency
     )
 

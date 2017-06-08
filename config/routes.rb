@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
   get '/team/', to: 'pages#team', as: 'team'
   get '/valeurs/', to: 'pages#concept', as: 'concept'
+  get '/degustation/', to: 'pages#tasting', as: 'tasting'
 
   resources :orders, only: [:show, :create] do
     resources :payments, only: [:new, :create]

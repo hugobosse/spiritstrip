@@ -21,7 +21,7 @@
     <%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Boutique", products_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Abonnement", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
-    <%= link_to "Dégustations", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
+    <%= link_to "Dégustations", tasting_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <!-- <#%= link_to "", class: "badge-container navbar-wagon-item navbar-wagon-link" do %>
         <i class="fa fa-shopping-cart"></i>
@@ -76,7 +76,7 @@
         <li><%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
         <li>    <%= link_to "Boutique", products_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
         <li><%= link_to "Abonnement", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %></li>
-        <li><%= link_to "Dégustations", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %></li>
+        <li><%= link_to "Dégustations", tasting_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
         <li><%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
       </ul>
     </div>

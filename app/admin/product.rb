@@ -7,9 +7,10 @@ ActiveAdmin.register Product do
     column :price_cents, sortable: :price_cents do |product|
       number_to_currency product.price
     end
-    column :description
     column :note
     column :image
+    column :sku
+
     actions
   end
 # See permitted parameters documentation:
@@ -25,6 +26,6 @@ ActiveAdmin.register Product do
 #   permitted
 # end
 
-  permit_params :name, :price_cents, :description, :title, :size_id, :category_id, :note, :image
+  permit_params :name, :price_cents, :description, :title, :size_id, :category_id, :note, :image, :sku
 
 end
