@@ -1,7 +1,6 @@
-<div class="top">
+<div>
   <%= form_tag orders_path do %>
     <%= hidden_field_tag 'product_id', @product.id %>
     <%= submit_tag 'Commander', class: 'btn btn-primary' %>
   <% end %>
 </div>
-
