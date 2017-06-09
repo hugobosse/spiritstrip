@@ -3,7 +3,7 @@
     <div class="col-xs-12 col-sm-6 col-sm-offset-3">
       <h1>Récapitulatif de commande</h1>
       <ul>
-        <li>StatuT: <%= @order.state %></li>
+        <li>Statut: <%= @order.state %></li>
         <li>Référence produit: <%= @order.product_sku %></li>
         <li>Montant: <%= humanized_money_with_symbol(@order.amount) %></li>
       <ul>
