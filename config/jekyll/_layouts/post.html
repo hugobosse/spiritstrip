@@ -15,12 +15,16 @@ layout: default
 </div>
 
 <div class="container">
-  <div id="post">
-    {{ content }}
+  <div class="row">
+    <div class="col-xs-12 col-md-8 col-md-offset-2">
+      <div id="post">
+        {{ content }}
+      </div>
+      <span class="blog-card-title">
+          <h4> Rédigé par <a href="{{ author.web }}" target="_blank">{{ author.name }}</a> le {{page.date | date_to_string }}</h4>
+      </span>
+    </div>
   </div>
-  <span class="blog-card-title">
-      <h4> Rédigé par <a href="{{ author.web }}" target="_blank">{{ author.name }}</a> le {{page.date | date_to_string }}</h4>
-  </span>
 </div>
 
 <div class="container">
