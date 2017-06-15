@@ -18,8 +18,8 @@
 
     <%= link_to "Accueil", root_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Fine équipe", team_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %>
-    <%= link_to "Boutique", products_path, class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Fondamentaux", concept_path, class: "navbar-spirits-item navbar-spirits-link" %>
+    <%= link_to "Boutique", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" } %>
     <%= link_to "Abonnement", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %>
     <%= link_to "Dégustations", tasting_path, class: "navbar-spirits-item navbar-spirits-link" %>
     <%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %>
@@ -73,8 +73,8 @@
       <ul class="dropdown-menu dropdown-menu-right navbar-spirits-dropdown-menu">
         <li><%= link_to "Accueil", root_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
         <li><%= link_to "Fine équipe", team_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
-        <li><%= link_to "Valeurs", concept_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
-        <li>    <%= link_to "Boutique", products_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
+        <li><%= link_to "Fondamentaux", concept_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
+        <li><%= link_to "Boutique", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" } %></li>
         <li><%= link_to "Abonnement", "", {class: "navbar-spirits-item navbar-spirits-link", 'data-toggle' => "modal", 'data-target' => "#myModal" }  %></li>
         <li><%= link_to "Dégustations", tasting_path, class: "navbar-spirits-item navbar-spirits-link" %></li>
         <li><%= link_to "Blog", blog_path, class: "navbar-spirits-item navbar-spirits-link" %></li>

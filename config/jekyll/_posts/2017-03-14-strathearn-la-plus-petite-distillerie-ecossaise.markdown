@@ -34,11 +34,8 @@ _Le Washback de la distillerie_
 
 Chez Strathearn les choses sont définitivement plus petites :
 
-<<<<<<< HEAD
-![]({{site.baseurl}}https://res.cloudinary.com/spirit-s-trip/image/upload/v1495567587/Instagram/IMG_1667.jpg)
-=======
+
 ![]({{site.baseurl}}https://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,w_566/v1495567587/Instagram/IMG_1667.jpg
->>>>>>> 14e5cd72349c756c148a9407f10cc2bcc17220a2
 _"Bella the Stripper" & "Wee Erin" les deux Pot Still_
 
 
