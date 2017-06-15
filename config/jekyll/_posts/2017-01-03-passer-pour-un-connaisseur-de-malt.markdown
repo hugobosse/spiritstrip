@@ -10,7 +10,7 @@ author: alexandre_cavalie
 > Dans le dernier article nous vous expliquions, avec humour, quelles étaient les questions à ne pas poser pour éviter de passer pour un blanc-bec du whisky. Pour compléter ces premiers conseils et bien commencer la nouvelle année, nous vous donnons quelques pistes afin que vous puissiez « faire genre » au sein d’une conversation entre « vieux routiers du malt »…
 
 
-![whisky étagère à whisky]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,h_500/v1497545114/étagère_à_whisky_gps7is.jpg)
+![whisky étagère à whisky]({{site.baseurl}}https://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,h_500/v1497545114/étagère_à_whisky_gps7is.jpg)
 
 ### Voici comment commander un Whisky
 
