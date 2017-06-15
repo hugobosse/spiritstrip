@@ -1,23 +1,26 @@
 ---
 layout: post
 published: true
-title: "Comment vous faire passer pour un fin connaisseur de malt"
-image: "https://res.cloudinary.com/dflt5cwj2/image/upload/v1494860832/whisky-home-bg_dcadim.jpg"
-
+title: Comment vous faire passer pour un fin connaisseur de malt
+image: >-
+  https://res.cloudinary.com/dflt5cwj2/image/upload/v1494860832/whisky-home-bg_dcadim.jpg
 tags: whisky astuce whiskypedia
 author: alexandre_cavalie
 ---
-Dans le dernier article nous vous expliquions, avec humour, quelles étaient les questions à ne pas poser pour éviter de passer pour un blanc-bec du whisky. Pour compléter ces premiers conseils et bien commencer la nouvelle année, nous vous donnons quelques pistes afin que vous puissiez « faire genre » au sein d’une conversation entre « vieux routiers du malt »…
+> Dans le dernier article nous vous expliquions, avec humour, quelles étaient les questions à ne pas poser pour éviter de passer pour un blanc-bec du whisky. Pour compléter ces premiers conseils et bien commencer la nouvelle année, nous vous donnons quelques pistes afin que vous puissiez « faire genre » au sein d’une conversation entre « vieux routiers du malt »…
 
 
-**Voici comment commander un Whisky**
+![whisky étagère à whisky]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,h_500/v1497545114/étagère_à_whisky_gps7is.jpg)
+
+### Voici comment commander un Whisky
 
 Premièrement commandez le sec. C'est-à-dire sans glace. Bien que de nombreux consommateurs aiment ajouter un gros cube de glace dans leur breuvage, pour les gens du métier cette pratique est considérée comme un véritable sacrilège qui n’a pour seul effet de ternir les arômes de ce que vous buvez.
 
 Ah oui, faites également en sorte, c’est la moindre des choses, de maitriser la différence entre un Single Malt et un Blend. Pour la faire courte, un Single malt est un whisky d’orge maltée, distillé dans une seule et même distillerie, un Blend quant à lui est un assemblage de plusieurs whiskies provenant de distilleries différentes.
 
 
-**Poser des questions intelligentes**
+### Poser des questions intelligentes
+
 Si vous voulez un peu vous mouiller, vous pouvez commencer par poser des questions. Cela vous donnera l'air intéressé tout en vous permettant de commencer une conversation où vous pourrez en apprendre davantage.
 Avant cette phase, regardez l’article du mois dernier pour éviter les questions stupides.
 
@@ -27,7 +30,8 @@ La maturation correspond au temps que le Whisky passe dans le tonneau, interagis
 
 La finition consiste, une fois la maturation terminée, à transvaser le whisky dans un autre fût, afin de cumuler différentes saveurs.
 
-**Ne buvez pas votre whisky bêtement et simplement. Admirez le, Sentez le, ressentez le, sirotez le, faites le tourner ...**
+
+### Ne buvez pas votre whisky bêtement et simplement. Admirez le, Sentez le, ressentez le, sirotez le, faites le tourner ...
 
 Maintenant, quand le barman vous tend le verre, ne le buvez pas cul-sec. Profitez-en ! Considérez pleinement ce que vous êtes en train de boire.
 Richard Patterson, célèbre Master Blender de la distillerie Dalmore, vous montre comment faire dans cette vidéo et il n’exagère pas du tout…
@@ -40,7 +44,7 @@ Entre deux coups de nez, n’hésitez pas à faire tourner légèrement votre wh
 Puis plongez sans vergogne votre nez à l’intérieur du verre pour percevoir les arômes les plus profonds. Et quand je vous dis de plonger le nez dedans, ce n’est pas au sens figuré. Lors de la dégustation, les professionnels ne font pas les choses à moitié!
 
 
-**Mais que devez-vous exactement sentir dans votre whisky?**
+### Mais que devez-vous exactement sentir dans votre whisky?
 
 Distinguer les odeurs et les goûts lors d’une dégustation est certainement la chose la plus difficile à apprendre quand on entame l’initiation. Il faut des années aux Master Blender pour apprendre l'art de la dégustation. Soyez vous aussi patient, et surtout, continuez de pratiquer.
 
@@ -55,7 +59,7 @@ Si vous pensez à une journée à la plage, vous êtes probablement sur des odeu
 Alors réfléchissez bien à ce à quoi vous fait penser l'odeur, ainsi, vous pourrez tomber juste !
 
 
-**Les odeurs sont trop difficiles à cerner? Ecoutez ce que vous dit votre bouche.**
+### Les odeurs sont trop difficiles à cerner? Ecoutez ce que vous dit votre bouche.
 
 Petit nous nous sommes attardés sur les couleurs lors de nos premières années scolaires. Ainsi nous distinguons le bleu marine du bleu roi et du cyan. Certain ont appris la musique et distinguent facilement un La mineur d’un Sol dièse. Il en va de même pour les odeurs et les goûts : cela s’apprend.  Et ce n’est qu’en s’entrainant et en approfondissant que vous parviendrez à faire des différences de plus en plus subtiles sur ce que vous sentez et ce que vous goutez.
 
@@ -71,6 +75,6 @@ La meilleure nouvelle dans tout ça ? Après avoir lu ceci, vous avez déjà fa
 Un dernier conseil, profitez du voyage que vous procure chaque dégustation !
 
 
-**Sláinte !**
+### Sláinte !
 
-**Spirit's Trip**
+### Spirit's Trip
