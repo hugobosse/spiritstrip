@@ -17,7 +17,7 @@ Ps : Ça tient pour vous aussi. Oui, vous. Vous qui n’aimez pas du tout ça (l
 
 Donc, si vous ne voulez pas que cette soirée Divine finisse en bain de sang à cause de la question de trop sur le whisky de Papy, je vous conseille de lire attentivement l’article qui suit afin d’éviter quelques questions…
 
-![whisky christmas noël sapin bouteille sous le sapin]({{site.baseurl}}/https://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,h_500/v1497543331/Capture_d_écran_2017-06-15_à_18.13.14_i4oicr.png)
+![whisky christmas noël sapin bouteille sous le sapin]({{site.baseurl}}https://res.cloudinary.com/spirit-s-trip/image/upload/c_scale,h_500/v1497543331/Capture_d_écran_2017-06-15_à_18.13.14_i4oicr.png)
 
 ### C’est quoi ton whisky préféré ?
 
